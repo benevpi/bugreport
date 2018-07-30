@@ -24,7 +24,7 @@ github_username:  benevpi
 
 # Build settings
 markdown: kramdown
-theme: type-on-strap
+theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
   - jekyll-paginate
