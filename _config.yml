@@ -24,7 +24,7 @@ github_username:  benevpi
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: type-on-strap
 plugins:
   - jekyll-feed
 
