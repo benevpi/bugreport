@@ -41,13 +41,14 @@ plugins:
 #   - vendor/ruby/
 
 theme_settings:
-  title: My Jekyll Blog                 # Name of website
+  title: Bug Report                 # Name of website
   avatar: assets/img/triangular.svg     # Path of avatar image, to be displayed in the theme's header
   gravatar: f98....6bfc                 # MD5 hash of your email address
   description: My blog posts            # Short description, primarily used by search engines
-  header_text: Welcome to my Jekyll blog
+  header_text: 
   header_text_feature_image: assets/img/sample3.png
   footer_text: Copyright 2018
 
+#this doesn't seem to be working
 paginate: 5
 paginate_path: "blog/page:num"
