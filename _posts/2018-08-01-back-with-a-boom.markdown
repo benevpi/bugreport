@@ -10,7 +10,7 @@ The first new episode in a little while
 <!--more-->
 
 ## News
-(Shakti tape-out – another open source chip running linux) [http://www.geekdave.in/2018/07/indias-first-risc-v-is-here-linux-boots.html]
+* [Shakti tape-out – another open source chip running linux](http://www.geekdave.in/2018/07/indias-first-risc-v-is-here-linux-boots.html)
 * Google 5 beeelion dollar EU fine
 
 
