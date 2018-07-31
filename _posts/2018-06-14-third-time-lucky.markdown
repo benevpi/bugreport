@@ -7,8 +7,4 @@ categories: news
 
 Like the phoenix that rises from the ashes of fire, ... insert bold but ultimately meaningless and grandious introduction here 
 
-<script src="https://utteranc.es/client.js"
-        repo="benevpi/bugreport"
-        issue-term="pathname"
-        async>
-</script>
+Download the podcast from here:
