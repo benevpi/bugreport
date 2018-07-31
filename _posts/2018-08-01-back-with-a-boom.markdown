@@ -15,7 +15,7 @@ The first new episode in a little while
 
 ## Finds
 * Ben
- * [Mu Python IDE reaches version 1.0](https://codewith.mu/)
+  * [Mu Python IDE reaches version 1.0](https://codewith.mu/)
 
 
 Download the podcast from here:
