@@ -43,10 +43,10 @@ xml:lang='en-GB'>
 {{ post.excerpt }}
 </description>
 <enclosure url="{{ post.url }}" length="{{ post.mp3length }}" type="audio/mp3"/>
-<pubDate> {{post.date}}</pubDate>
+<pubDate> {{post.date | date_to_rfc822 }}</pubDate>
 <itunes:duration> {{post.duration}}</itunes:duration>
 <itunes:keywords> {{post.keywords}}</itunes:keywords>
-<guid>{{post.url}}</guid>
+<guid>http://bugreport.co.uk/{{post.url}}</guid>
 </item>
 
 
