@@ -45,4 +45,7 @@ xml:lang='en-GB'>
 <itunes:duration> {{post.duration}}</itunes:duration>
 <itunes:keywords> {{post.keywords}}</itunes:keywords>
 <guid>http://bugreport.co.uk/{{post.url}}</guid>
-</item>{% endif %}{% endfor %}
+</item>{% endif %}
+{% endfor %}
+</channel>
+</rss>
