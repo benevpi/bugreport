@@ -48,9 +48,5 @@ xml:lang='en-GB'>
 <itunes:keywords> {{post.keywords}}</itunes:keywords>
 <guid>http://bugreport.co.uk/{{post.url}}</guid>
 </item>
-
-
-
 {% endif %}
-
 {% endfor %}
