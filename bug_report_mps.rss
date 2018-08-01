@@ -8,7 +8,7 @@ xmlns:atom="http://www.w3.org/2005/Atom"
 xml:lang='en-GB'>
 
 <channel>
-<title>Linux Voice Podcast</title>
+<title>Bug Report Podcast</title>
 <link>http://www.linuxvoice.com/podcast_mp3.rss</link>
 <atom:link href="https://www.linuxvoice.com/podcast_mp3.rss" rel="self" type="application/rss+xml"/>
 <language>en</language>
@@ -34,6 +34,7 @@ xml:lang='en-GB'>
 
 {% for post in site.posts %}
 
+{% if post.podcast %}
 <item>
 <title>Season {{ post.series }} Episode {{ post.episode }} </title>
 <itunes:author>Andrew Gregory, Ben Everard and Graham Morrison.</itunes:author>
@@ -50,10 +51,6 @@ xml:lang='en-GB'>
 
 
 
-{{post.date}}
-{{post.title}}
-{{post.series}}
-{{post.episode}}
-
+{% endif %}
 
 {% endfor %}
