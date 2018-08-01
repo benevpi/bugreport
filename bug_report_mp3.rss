@@ -32,9 +32,7 @@ xml:lang='en-GB'>
 </itunes:category>
 
 
-{% for post in site.posts %}
-
-{% if post.podcast %}
+{% for post in site.posts %}{% if post.podcast %}
 <item>
 <title>Season {{ post.series }} Episode {{ post.episode }} </title>
 <itunes:author>Andrew Gregory, Ben Everard and Graham Morrison.</itunes:author>
@@ -47,6 +45,4 @@ xml:lang='en-GB'>
 <itunes:duration> {{post.duration}}</itunes:duration>
 <itunes:keywords> {{post.keywords}}</itunes:keywords>
 <guid>http://bugreport.co.uk/{{post.url}}</guid>
-</item>
-{% endif %}
-{% endfor %}
+</item>{% endif %}{% endfor %}
