@@ -40,7 +40,7 @@ xml:lang='en-GB'>
 <itunes:author>Andrew Gregory, Ben Everard and Graham Morrison.</itunes:author>
 <itunes:subtitle>Title: {{ post.title }} </itunes:subtitle>
 <description>
-{{ post.excerpt }}
+{{ post.excerpt | strip_html }}
 </description>
 <enclosure url="{{ post.url }}" length="{{ post.mp3length }}" type="audio/mp3"/>
 <pubDate> {{post.date | date_to_rfc822 }}</pubDate>
