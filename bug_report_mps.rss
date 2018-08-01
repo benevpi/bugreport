@@ -1,7 +1,54 @@
 ---
 ---
 
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"
+xmlns:media="http://search.yahoo.com/mrss/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xml:lang='en-GB'>
+
+<channel>
+<title>Linux Voice Podcast</title>
+<link>http://www.linuxvoice.com/podcast_mp3.rss</link>
+<atom:link href="https://www.linuxvoice.com/podcast_mp3.rss" rel="self" type="application/rss+xml"/>
+<language>en</language>
+<copyright>Released under the Creative Commons Attribution-Share Alike 3.0 Unported Licence</copyright>
+<description>Linux chat and banter</description>
+<image>
+<title>Bug Report Podcast</title>
+<url>http://bugreport.co.uk/assets/podimg.png</url>
+<link>http://bugreport.co.uk/bug_report_mp3.rss</link>
+</image>
+<media:thumbnail url="http://www.bugreport.co.uk/assets/podimg.png" />
+<itunes:author>bugreport.co.uk</itunes:author>
+<itunes:summary>Interested in Linux and Free Software? We talk about the latest events and topics with our trademarks of humour, irreverence and awesome listener contributions.</itunes:summary>
+<itunes:owner>
+<itunes:name>Graham Morrison</itunes:name>
+<itunes:email>graham@linuxvoice.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="http://www.bugreport.co.uk/assets/podimg.png" />
+<itunes:category text="Technology">
+</itunes:category>
+
+
 {% for post in site.posts %}
+
+<item>
+<title>Season {{ post.series }} Episode {{ post.episode }} </title>
+<itunes:author>Andrew Gregory, Ben Everard and Graham Morrison.</itunes:author>
+<itunes:subtitle>Title: {{ post.title }} </itunes:subtitle>
+<description>
+{{ post.excerpt }}
+</description>
+<enclosure url="{{ post.url }}" length="{{ post.mp3length }}" type="audio/mp3"/>
+<pubDate> {{post.date}}</pubDate>
+<itunes:duration> {{post.duration}}</itunes:duration>
+<itunes:keywords> {{post.keywords}}</itunes:keywords>
+<guid>{{post.url}}</guid>
+</item>
+
+
 
 {{post.date}}
 {{post.title}}
