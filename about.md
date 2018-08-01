@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+background: '/assets/bug_report_banner.png'
 ---
 
 We're a bunch of geeks who worked together on magazines including the crowdfunded Linux Voice.
