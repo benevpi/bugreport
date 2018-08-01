@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+We're a bunch of geeks who worked together on magazines including the crowdfunded Linux Voice.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+* Andrew Gregory is the guitar-playing, smooth talking features ediitor of HackSpace magazine
+* Ben Everard manages to geek out about just about anything from mushrooms to microcontrollers. He's the editor of HackSpace magazine
+* Graham Morrison fiddles with synthesizers and old computers. He's attempting to make Canonical's documentation match its software.
+* Mike Saunders is a Cumbrian living in exile in Munich. He works for Libre Office and teaches an approximation of English to the people of Germany.
