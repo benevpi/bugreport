@@ -19,7 +19,7 @@ email: ben.everard@raspberrypi.org
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ben_everard
+twitter_username: PodcastBug
 github_username:  benevpi
 background: '/assets/bug_report_banner.png'
 
