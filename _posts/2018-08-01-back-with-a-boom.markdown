@@ -18,7 +18,7 @@ The first new episode in a little while
 * Ben
   * [Mu Python IDE reaches version 1.0](https://codewith.mu/)
   * [Jekyll](https://jekyllrb.com/)
-  * [I made a knife]
+  * [I made a knife](https://hackspace.raspberrypi.org/features/a-two-hour-knife)
 
 
-Download the podcast from here:
+Download the podcast from [here](http://bugreport.co.uk/assets/bugreport_s1e1.mp3_
