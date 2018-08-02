@@ -22,7 +22,7 @@ Like the phoenix that rises from the ashes of the fire... insert bold but ultima
 ## Finds
 * Andrew 
   * [You can go and have a pint on the actual balcony that Begbie throws his pint from in Trainspotting](http://www.kelbournesaint.com/) 
-  * [Bicycles are fragile] 
+  * Bicycles are fragile 
 * Ben
   * [Mu Python IDE reaches version 1.0](https://codewith.mu/)
   * [Jekyll](https://jekyllrb.com/)
