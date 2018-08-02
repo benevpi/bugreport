@@ -11,9 +11,7 @@ keywords: linux,brexit
 mp3length: 1
 excerpt_separator: <!--more-->
 ---
-
-The first new episode in a little while
-
+Like the phoenix that rises from the ashes of the fire... insert bold but ultimately meaningless and grandiose introduction here
 <!--more-->
 
 ## News
