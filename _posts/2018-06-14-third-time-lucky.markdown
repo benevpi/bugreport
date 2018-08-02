@@ -22,6 +22,9 @@ The first new episode in a little while
 * [SuSE sold for 2.5 beelion](https://thehackernews.com/2018/07/suse-linux-acquired.html)
 
 ## Finds
+* Andrew 
+  * [You can go and have a pint on the actual balcony that Begbie throws his pint from in Trainspotting](http://www.kelbournesaint.com/) 
+  * [Bicycles are fragile] 
 * Ben
   * [Mu Python IDE reaches version 1.0](https://codewith.mu/)
   * [Jekyll](https://jekyllrb.com/)
