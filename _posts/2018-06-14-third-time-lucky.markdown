@@ -6,9 +6,10 @@ categories: news
 series: 1
 episode: 1
 podcast: true
-duration: 1
+duration: 3057
 keywords: linux,brexit
-mp3length: 1
+mp3length: 55322882
+ogglength: 42556011
 excerpt_separator: <!--more-->
 ---
 Like the phoenix that rises from the ashes of the fire... insert bold but ultimately meaningless and grandiose introduction here
