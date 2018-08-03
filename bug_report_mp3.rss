@@ -17,7 +17,7 @@ xml:lang='en-GB'>
 <image>
 <title>Bug Report Podcast</title>
 <url>http://bugreport.co.uk/assets/podimg.png</url>
-<link>http://bugreport.co.uk/assets/bug_report_mp3.rss</link>
+<link>http://bugreport.co.uk/bug_report_mp3.rss</link>
 </image>
 <media:thumbnail url="http://www.bugreport.co.uk/assets/podimg.png" />
 <itunes:author>bugreport.co.uk</itunes:author>
