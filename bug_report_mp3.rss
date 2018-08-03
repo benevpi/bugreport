@@ -9,8 +9,8 @@ xml:lang='en-GB'>
 
 <channel>
 <title>Bug Report Podcast</title>
-<link>http://www.linuxvoice.com/podcast_mp3.rss</link>
-<atom:link href="https://www.linuxvoice.com/podcast_mp3.rss" rel="self" type="application/rss+xml"/>
+<link>http://bugreport.co.uk/bug_mp3.rss</link>
+<atom:link href="http://bugreport.co.uk/bug_report_mp3.rss" rel="self" type="application/rss+xml"/>
 <language>en</language>
 <copyright>Released under the Creative Commons Attribution-Share Alike 3.0 Unported Licence</copyright>
 <description>Linux chat and banter</description>
