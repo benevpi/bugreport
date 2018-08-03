@@ -12,7 +12,7 @@ mp3length: 55322882
 ogglength: 42556011
 excerpt_separator: <!--more-->
 ---
-Like the phoenix that rises from the ashes of the fire... insert bold but ultimately meaningless and grandiose introduction here
+Like the phoenix that rises from the ashes of the fire... insert bold but ultimately meaningless and grandiose introduction here...
 <!--more-->
 
 We had a few recording issues due to six month's dust accumulating in the mics which we'll get sorted before next episode.
@@ -47,3 +47,7 @@ We had a few recording issues due to six month's dust accumulating in the mics w
 Download the podcast as an [MP3](http://bugreport.co.uk/assets/bugreport_s1e1.mp3) or an [OGG](http://bugreport.co.uk/assets/bugreport_s1e1.ogg).
 
 Let us know what you think with the comments (er, Github issues) below.
+
+Theme Music by [Brad Sucks](http://www.bradsucks.net/).
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license"  href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
