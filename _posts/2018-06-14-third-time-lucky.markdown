@@ -20,6 +20,8 @@ Like the phoenix that rises from the ashes of the fire... insert bold but ultima
 * [SuSE sold for 2.5 beelion](https://thehackernews.com/2018/07/suse-linux-acquired.html)
 
 ## Finds
+* Graham
+  * [RTL SDR lets you see what's being transmitted through the air around you](https://www.rtl-sdr.com)
 * Andrew 
   * [You can go and have a pint on the actual balcony that Begbie throws his pint from in Trainspotting](http://www.kelbournesaint.com/) 
   * Bicycles are fragile 
@@ -27,6 +29,12 @@ Like the phoenix that rises from the ashes of the fire... insert bold but ultima
   * [Mu Python IDE reaches version 1.0](https://codewith.mu/)
   * [Jekyll](https://jekyllrb.com/)
   * [I made a knife](https://hackspace.raspberrypi.org/features/a-two-hour-knife)
+* Mike
+  * Pester mike to fill this bit in before we go live
+* From Twitter
+  * @pwaring [The BSWAP instruction](https://c9x.me/x86/html/file_module_x86_id_21.html)
+  * @pwaring [ssh-keygen -y can help you check passphrases](https://linux.die.net/man/1/ssh-keygen)
+  * @thefalken [trailofbits/algo lets you create a IPSEC VPN in the cloud](https://github.com/trailofbits/algo)
 
 
 Download the podcast as an [MP3](http://bugreport.co.uk/assets/bugreport_s1e1.mp3) or an [OGG](http://bugreport.co.uk/assets/bugreport_s1e1.ogg)
