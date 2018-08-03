@@ -29,4 +29,4 @@ Like the phoenix that rises from the ashes of the fire... insert bold but ultima
   * [I made a knife](https://hackspace.raspberrypi.org/features/a-two-hour-knife)
 
 
-Download the podcast from [here](http://bugreport.co.uk/assets/bugreport_s1e1.mp3)
+Download the podcast as an [MP3](http://bugreport.co.uk/assets/bugreport_s1e1.mp3) or an [OGG](http://bugreport.co.uk/assets/bugreport_s1e1.ogg)
