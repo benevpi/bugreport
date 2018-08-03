@@ -15,6 +15,8 @@ excerpt_separator: <!--more-->
 Like the phoenix that rises from the ashes of the fire... insert bold but ultimately meaningless and grandiose introduction here
 <!--more-->
 
+We had a few recording issues due to six month's dust accumulating in the mics which we'll get sorted before next episode.
+
 ## News
 * [Shakti tape-out – another open source chip running linux](http://www.geekdave.in/2018/07/indias-first-risc-v-is-here-linux-boots.html)
 * [Google 5 beeeeelion dollar EU fine](https://www.bbc.co.uk/news/technology-44858238)
@@ -39,3 +41,5 @@ Like the phoenix that rises from the ashes of the fire... insert bold but ultima
 
 
 Download the podcast as an [MP3](http://bugreport.co.uk/assets/bugreport_s1e1.mp3) or an [OGG](http://bugreport.co.uk/assets/bugreport_s1e1.ogg)
+
+Let us know what you think with the comments (er, Github issues) below.
