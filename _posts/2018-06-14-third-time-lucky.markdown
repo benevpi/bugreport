@@ -39,7 +39,11 @@ We had a few recording issues due to six month's dust accumulating in the mics w
   * @pwaring [ssh-keygen -y can help you check passphrases](https://linux.die.net/man/1/ssh-keygen)
   * @thefalken [trailofbits/algo lets you create a IPSEC VPN in the cloud](https://github.com/trailofbits/algo)
 
+<audio controls>
+  <source src="http://bugreport.co.uk/assets/bugreport_s1e1.ogg" type="audio/ogg">
+  <source src="http://bugreport.co.uk/assets/bugreport_s1e1.mp3" type="audio/mpeg">
+</audio>
 
-Download the podcast as an [MP3](http://bugreport.co.uk/assets/bugreport_s1e1.mp3) or an [OGG](http://bugreport.co.uk/assets/bugreport_s1e1.ogg)
+Download the podcast as an [MP3](http://bugreport.co.uk/assets/bugreport_s1e1.mp3) or an [OGG](http://bugreport.co.uk/assets/bugreport_s1e1.ogg).
 
 Let us know what you think with the comments (er, Github issues) below.
