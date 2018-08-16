@@ -17,12 +17,12 @@ The grand reunion took place at FOSSTalk Live in London on 9th June 2018, and he
 <!--more-->
 This episode was recorded before we had a new name, so parts of it are still under our old name: Linux Voice. We'll be back in two weeks with a brand new episode.
 
-##news
+## News
 * [Microsoft buys Github](https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/)
 * [Google joins AI venture with Pentagon that it's since left](https://www.bbc.co.uk/news/business-44341490)
 * Everything's broken
 
-##finds
+## Finds
 * Andrew
   * Went on Mastermind
 * Ben
