@@ -1,21 +1,23 @@
 ---
 layout: post
-title:  "Third Time Lucky"
-date:   2018-08-30 17:30:00 +0100
+title:  "Linux Means Linux"
+date:   2018-08-31 17:30:00 +0100
 categories: news
 series: 1
 episode: 1
 podcast: true
 duration: 3057
 keywords: linux,brexit
-mp3length: 55322882
-ogglength: 42556011
+mp3length: 53327404
+ogglength: 43073273
 excerpt_separator: <!--more-->
 ---
-Intro here
+
+Yes, it's true. We did actually record another podcast when we said we would.
+
 <!--more-->
 
-We had a few recording issues due to six month's dust accumulating in the mics which we'll get sorted before next episode.
+We had a few (more) recording issues due to six month's dust accumulating in the mics which we'll get sorted before next episode.
 
 ## News
 * [Valve realese SteamPlay & Proton, a custom version of wine to bring more games to Linux](https://steamcommunity.com/games/221410#announcements/detail/1696055855739350561
@@ -26,10 +28,10 @@ We had a few recording issues due to six month's dust accumulating in the mics w
 
 ## Finds
 * Graham
-  * astronomy thingie
+  * [Siril](https://free-astro.org/index.php/Siril), an astronomical image processing tool
 * Andrew 
-  *  Edublocks
-  * appolo 50
+  * [Edublocks](https://edublocks.org/)
+  * Appolo 50
 * Ben
   * Blue Snowball
   * [Making a page that doesn't have the ability to track a user]
@@ -40,11 +42,11 @@ We had a few recording issues due to six month's dust accumulating in the mics w
   * firmware for esp8266 iot
 
 <audio controls>
-  <source src="http://bugreport.co.uk/assets/bugreport_s1e2.ogg" type="audio/ogg">
-  <source src="http://bugreport.co.uk/assets/bugreport_s1e2.mp3" type="audio/mpeg">
+  <source src="http://bugreport.co.uk/assets/bugreport_s1e3.ogg" type="audio/ogg">
+  <source src="http://bugreport.co.uk/assets/bugreport_s1e3.mp3" type="audio/mpeg">
 </audio>
 
-Download the podcast as an [MP3](http://bugreport.co.uk/assets/bugreport_s1e2.mp3) or an [OGG](http://bugreport.co.uk/assets/bugreport_s1e2.ogg).
+Download the podcast as an [MP3](http://bugreport.co.uk/assets/bugreport_s1e3.mp3) or an [OGG](http://bugreport.co.uk/assets/bugreport_s1e3.ogg).
 
 Let us know what you think with the comments (er, Github issues) below.
 
