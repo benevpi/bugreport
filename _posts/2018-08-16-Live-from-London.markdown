@@ -30,7 +30,7 @@ This episode was recorded before we had a new name, so parts of it are still und
 * Graham
   * Still fiddling with his Amiga
   * [Pi Sound MIDI interface](https://blokas.io/pisound/)
-  * (The pronunciation of Shakespeare plays is all wrong)[https://www.youtube.com/watch?v=gPlpphT7n9s]
+  * [The pronunciation of Shakespeare plays is all wrong](https://www.youtube.com/watch?v=gPlpphT7n9s)
   
 
 <audio controls>
