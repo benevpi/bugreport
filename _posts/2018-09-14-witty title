@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "something something"
+title:  "s01e04: EUrghh!"
 date:   2018-09-14 11:30:00 +0100
 categories: news
 series: 1
 episode: 4
 podcast: true
 duration: 3057
-keywords: linux,brexit
+keywords: Linux, Brexit, EU, Amiga, SID Chips
 mp3length: 53327404
 ogglength: 43073273
 excerpt_separator: <!--more-->
@@ -27,25 +27,26 @@ More stuff
 
 ## Finds
 * Graham
-  * 
+  * You can still access old BBSs from 8-bit computers with [Retro Wifi](https://www.simulant.uk/shop/retro-vintage-computer-wifi-modem-rs232-serial-hayes-compatible)
+  * SID chips are still awesome
 * Andrew 
-  * 
-  * 
+  * The [Tractor Hacking Revolt](https://motherboard.vice.com/en_us/article/kzp7ny/tractor-hacking-right-to-repair)
 * Ben
   * Hacking a USB cable
   * We got our first pull request -- fixing our dodgy markdown -- thanks Andrew Smith
   * 
 * Mike
-  * 
-* From Twitter
-  * 
+  * [Freedom zero](https://www.gnu.org/philosophy/free-sw.en.html)
+* From the internet
+  * JonTheNiceGuy: [https://jon.sprig.gs/blog/post/847](https://jon.sprig.gs/blog/post/847) <- "One to read/watch: IPsec and IKE Tutorial
+  * Devilment: My find from a few weeks back, [www.fpgasid.de](http://www.fpgasid.de/). Recreation of the venerable SID chip using FPGA 
 
 <audio controls>
-  <source src="http://bugreport.co.uk/assets/bugreport_s1e3.ogg" type="audio/ogg">
-  <source src="http://bugreport.co.uk/assets/bugreport_s1e3.mp3" type="audio/mpeg">
+  <source src="http://bugreport.co.uk/assets/bugreport_s1e4.ogg" type="audio/ogg">
+  <source src="http://bugreport.co.uk/assets/bugreport_s1e4.mp3" type="audio/mpeg">
 </audio>
 
-Download the podcast as an [MP3](http://bugreport.co.uk/assets/bugreport_s1e3.mp3) or an [OGG](http://bugreport.co.uk/assets/bugreport_s1e3.ogg).
+Download the podcast as an [MP3](http://bugreport.co.uk/assets/bugreport_s1e4.mp3) or an [OGG](http://bugreport.co.uk/assets/bugreport_s1e4.ogg).
 
 Let us know what you think with the comments (er, Github issues) below.
 
