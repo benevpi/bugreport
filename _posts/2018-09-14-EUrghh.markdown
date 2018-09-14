@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "s01e04: EUrghh!"
-date:   2018-09-14 11:30:00 +0100
+date:   2018-09-14 10:30:00 +0100
 categories: news
 series: 1
 episode: 4
