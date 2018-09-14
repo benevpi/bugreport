@@ -13,11 +13,11 @@ ogglength: 43073273
 excerpt_separator: <!--more-->
 ---
 
-intro
+In an surprise to everyone involved, we're still hitting our two month self-imposed schedule and ranting about software and the finer points of european law
 
 <!--more-->
 
-More stuff
+ 
 
 ## News
 * [Gimp gets $100'0000 is a weird sentence](https://www.gimp.org/news/2018/08/30/handshake-gnome-donation/)
