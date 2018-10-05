@@ -1,23 +1,21 @@
 ---
 layout: post
-title:  "s01e04: EUrghh!"
+title:  "s01e05: The Only Way Is Linux"
 date:   2018-10-05 10:30:00 +0100
 categories: news
 series: 1
 episode: 5
 podcast: true
 duration: 3057
-keywords: Linux, Brexit, EU, Amiga, SID Chips
+keywords: Linux, Brexit, EU, Blockchain
 mp3length: 53327404
 ogglength: 43073273
 excerpt_separator: <!--more-->
 ---
 
-In an surprise to everyone involved, we're still hitting our two week self-imposed schedule and ranting about software and the finer points of european law
+We're still here, and we need our own Code of Conduct! We chat about Linux, blockchain, federation and whether a love of old books holds the key to European unity (not really).
 
 <!--more-->
-
- 
 
 ## News
 * Linux gets a code of conduct, hilarity ensues
@@ -28,16 +26,17 @@ In an surprise to everyone involved, we're still hitting our two week self-impos
 
 ## Finds
 * Graham
-  * 
+  * [Europe's oldest intact book](http://www.openculture.com/2018/09/europes-oldest-intact-book-preserved-found-coffin-saint.html)
+  * [Mercenary Reloaded](http://mercenary.eversberg.eu/)
+  * AmigaOS 3.1.4
 * Andrew 
   * 
 * Ben
   * 
   * 
-* Mike
-  * 
 * From the internet
-  * 
+  * Recall, edit and execute commands from your zsh history with [fc](https://www-s.acm.illinois.edu/workshops/zsh/history/fc.html)
+  * [Privacy Badger](https://www.eff.org/privacybadger)
   
 <audio controls>
   <source src="http://bugreport.co.uk/assets/bugreport_s1e5.ogg" type="audio/ogg">
