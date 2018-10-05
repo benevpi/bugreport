@@ -18,8 +18,8 @@ We're still here, and we need our own Code of Conduct! We chat about Linux, bloc
 <!--more-->
 
 ## News
-* Linux gets a code of conduct, hilarity ensues
-* Linux audio getting better / changed
+* [Linux gets a code of conduct, hilarity ensues](https://linux.slashdot.org/story/18/09/27/1529236/linus-torvalds-on-linuxs-code-of-conduct)
+* [Linux audio getting better / changed](https://blogs.gnome.org/uraeus/2018/09/24/getting-the-team-together-to-revolutionize-linux-audio/)
 * Tim Berners Lee discovers federation
 * Blockchain will save EU
 * Mycroft personal server on it's way
@@ -30,10 +30,11 @@ We're still here, and we need our own Code of Conduct! We chat about Linux, bloc
   * [Mercenary Reloaded](http://mercenary.eversberg.eu/)
   * AmigaOS 3.1.4
 * Andrew 
-  * 
+  * [New York smells of meat](https://cityroom.blogs.nytimes.com/2011/04/01/what-does-new-york-smell-like-to-you/)
+  * [Linux is now the most popular OS on Azure](https://linux.slashdot.org/story/18/09/27/209211/linux-now-dominates-azure)
+  * Everard's Law (wikipedia link incoming)
 * Ben
-  * 
-  * 
+  * [Resin 3D printers](https://en.wikipedia.org/wiki/Stereolithography)
 * From the internet
   * Recall, edit and execute commands from your zsh history with [fc](https://www-s.acm.illinois.edu/workshops/zsh/history/fc.html)
   * [Privacy Badger](https://www.eff.org/privacybadger)
