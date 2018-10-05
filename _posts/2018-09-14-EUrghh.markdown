@@ -13,11 +13,9 @@ ogglength: 43073273
 excerpt_separator: <!--more-->
 ---
 
-In an surprise to everyone involved, we're still hitting our two week self-imposed schedule and ranting about software and the finer points of european law
+In a surprise to everyone involved, we're still hitting our two week self-imposed schedule and ranting about software and the finer points of European law.
 
 <!--more-->
-
- 
 
 ## News
 * [Gimp gets $100'000 is a weird sentence](https://www.gimp.org/news/2018/08/30/handshake-gnome-donation/)
@@ -34,7 +32,6 @@ In an surprise to everyone involved, we're still hitting our two week self-impos
 * Ben
   * Hacking a USB cable
   * We got our first pull request -- fixing our dodgy markdown -- thanks Andrew Smith
-  * 
 * Mike
   * [Freedom zero](https://www.gnu.org/philosophy/free-sw.en.html)
 * From the internet
