@@ -20,9 +20,9 @@ We're still here, and we need our own Code of Conduct! We chat about Linux, bloc
 ## News
 * [Linux gets a code of conduct, hilarity ensues](https://linux.slashdot.org/story/18/09/27/1529236/linus-torvalds-on-linuxs-code-of-conduct)
 * [Linux audio getting better / changed](https://blogs.gnome.org/uraeus/2018/09/24/getting-the-team-together-to-revolutionize-linux-audio/)
-* Tim Berners Lee discovers federation
-* Blockchain will save EU
-* Mycroft personal server on it's way
+* [Tim Berners Lee discovers federation](https://solid.mit.edu/)
+* [Blockchain will save EU](https://ftalphaville.ft.com/2018/10/02/1538481491000/Chancellor-s-blockchain-idea-is-a-desperate-scrape-of-the-Brexit-barrel/)
+* [Mycroft personal server on it's way](https://mycroft.ai/blog/mycroft-personal-server-conversation/)
 
 ## Finds
 * Graham
