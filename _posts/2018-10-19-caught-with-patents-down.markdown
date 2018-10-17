@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "s01e05: The Only Way Is Linux"
+title:  "s01e06: Caught with your patents down"
 date:   2018-10-19 10:30:00 +0100
 categories: news
 series: 1
