@@ -34,6 +34,8 @@ We've got news, and more news, and a half way reminder, and just a few finds in 
 * Ben
   * conductive playdough
   * incandescent lightbulbs
+* Mike
+  * Has a man-crush on the [mayor of Tirana](https://en.wikipedia.org/wiki/Mayor_of_Tirana)
 * From the internet
   * [Paul Allen](https://www.gatesnotes.com/About-Bill-Gates/Remembering-Paul-Allen) has died
   * Length of ring and index fingers '[linked to sexuality](https://www.bbc.co.uk/news/health-45887691)'
