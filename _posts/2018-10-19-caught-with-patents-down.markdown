@@ -29,7 +29,8 @@ We've got news, and more news, and a half way reminder, and just a few finds in 
   * Use a [Tilt hydrometer](https://tilthydrometer.com/) to continuously measure the gravity of your homebrews
   * The [iSpindel](https://github.com/universam1/iSpindel) is a DIY equivalent to the Tilt
 * Andrew 
-  * ??
+  * [Maggots](http://uk.businessinsider.com/food-maggots-fda-2017-9) and other rubbish are permitted in foord made in the USA
+  * This may or may not be a contributing factor in the [rates of food-borne ilnesses](https://www.sustainweb.org/news/feb18_US_foodpoisoning/) being far higher in the USA than in Blighty, our legal system placing a firm [duty of care onto suppliers](https://en.wikipedia.org/wiki/Donoghue_v_Stevenson)
 * Ben
   * conductive playdough
   * incandescent lightbulbs
