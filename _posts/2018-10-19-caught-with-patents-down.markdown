@@ -13,7 +13,7 @@ ogglength:
 excerpt_separator: <!--more-->
 ---
 
-Intro goes here
+We've got news, and more news, and a half way reminder, and just a few finds in an epicly long podcast. 
 
 <!--more-->
 
@@ -25,22 +25,24 @@ Intro goes here
 
 ## Finds
 * Graham
-  * Probably synths and stuff
-  * I guess Amiga as well
+  * The [Moog One](https://www.moogmusic.com/news/moog-one-polyphonic-analog-synthesizer) is expensive and doesn't implement polyphonic aftertouch
+  * Use a [Tilt hydrometer](https://tilthydrometer.com/) to continuously measure the gravity of your homebrews
+  * The [iSpindel](https://github.com/universam1/iSpindel) is a DIY equivalent to the Tilt
 * Andrew 
   * ??
 * Ben
   * conductive playdough
   * incandescent lightbulbs
 * From the internet
-  *
+  * [Paul Allen](https://www.gatesnotes.com/About-Bill-Gates/Remembering-Paul-Allen) has died
+  * Length of ring and index fingers '[linked to sexuality](https://www.bbc.co.uk/news/health-45887691)'
   
 <audio controls>
   <source src="http://bugreport.co.uk/assets/bugreport_s1e6.ogg" type="audio/ogg">
   <source src="http://bugreport.co.uk/assets/bugreport_s1e6.mp3" type="audio/mpeg">
 </audio>
 
-Download the podcast as an [MP3](http://bugreport.co.uk/assets/bugreport_s1e5.mp3) or an [OGG](http://bugreport.co.uk/assets/bugreport_s1e5.ogg).
+Download the podcast as an [MP3](http://bugreport.co.uk/assets/bugreport_s1e6.mp3) or an [OGG](http://bugreport.co.uk/assets/bugreport_s1e6.ogg).
 
 Let us know what you think with the comments (er, Github issues) below.
 
