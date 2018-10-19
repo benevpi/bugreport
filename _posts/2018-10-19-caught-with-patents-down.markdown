@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "s01e06: Caught with your patents down"
+title:  "s01e06: Caught with our patents down"
 date:   2018-10-19 10:30:00 +0100
 categories: news
 series: 1
 episode: 6
 podcast: true
-duration: 
+duration: 4209
 keywords: Linux, Brexit, EU, Linux Voice, Microsoft, Google, Tech
-mp3length: 
-ogglength: 
+mp3length: 73032983
+ogglength: 56593179
 excerpt_separator: <!--more-->
 ---
 
