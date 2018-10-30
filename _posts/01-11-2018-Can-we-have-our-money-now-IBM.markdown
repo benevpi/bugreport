@@ -19,6 +19,9 @@ We've got news, and more news, and a half way reminder, and just a few finds in 
 
 ## News
 * RedHat sells out
+* Hammond goes after silicon valley
+* UK Hackspace foundation gets cash
+* Linux is back
 
 ## Finds
 * Graham
