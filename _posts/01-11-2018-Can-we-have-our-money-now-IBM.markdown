@@ -13,7 +13,7 @@ ogglength:
 excerpt_separator: <!--more-->
 ---
 
-We've got news, and more news, and a half way reminder, and just a few finds in an epicly long podcast. 
+we dun did a thing 
 
 <!--more-->
 
@@ -22,6 +22,7 @@ We've got news, and more news, and a half way reminder, and just a few finds in 
 * Hammond goes after silicon valley
 * UK Hackspace foundation gets cash
 * Linus is back and a bit politer
+* new magazine out
 
 ## Finds
 * Graham
