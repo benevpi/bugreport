@@ -19,7 +19,7 @@ xml:lang='en-GB'>
 <url>http://bugreport.co.uk/assets/podimg.png</url>
 <link>http://bugreport.co.uk/bug_report_mp3.rss</link>
 </image>
-<media:thumbnail url="http://www.bugreport.co.uk/assets/podimg.png" />
+<media:thumbnail url="https://bugreport.co.uk/assets/podimg.png" />
 <itunes:author>bugreport.co.uk</itunes:author>
 <itunes:summary>Interested in Linux and Free Software? We talk about the latest events and topics with our trademarks of humour, irreverence and awesome listener contributions.</itunes:summary>
 <itunes:owner>
@@ -27,7 +27,7 @@ xml:lang='en-GB'>
 <itunes:email>graham@linuxvoice.com</itunes:email>
 </itunes:owner>
 <itunes:explicit>no</itunes:explicit>
-<itunes:image href="http://www.bugreport.co.uk/assets/podimg.png" />
+<itunes:image href="https://bugreport.co.uk/assets/podimg.png" />
 <itunes:category text="Technology">
 </itunes:category>
 
