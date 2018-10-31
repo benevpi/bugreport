@@ -18,10 +18,10 @@ We've got news, and more news, and a half way reminder, and just a few finds in 
 <!--more-->
 
 ## News
-* RedHat sells out
+* RedHat sells out -- more in open ballot
 * Hammond goes after silicon valley
 * UK Hackspace foundation gets cash
-* Linux is back
+* Linus is back and a bit politer
 
 ## Finds
 * Graham
@@ -29,7 +29,7 @@ We've got news, and more news, and a half way reminder, and just a few finds in 
 * Andrew 
   *
 * Ben
-  * 
+  * Github alerting you to vulnerabilities
 * Mike
   *
 * From the internet
