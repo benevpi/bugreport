@@ -5,7 +5,7 @@ date:   2018-11-02 12:30:00 +0100
 categories: news
 series: 1
 episode: 7
-podcast: true
+podcast: false
 duration: 
 keywords: Linux, Brexit, EU, Linux Voice, Tech, Red Hat, Fedora, Scarlet cap, IBM
 mp3length: 
