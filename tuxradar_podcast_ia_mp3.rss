@@ -1,0 +1,1614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"
+xmlns:media="http://search.yahoo.com/mrss/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xml:lang='en-GB'>
+
+<channel>
+<title>TuxRadar Linux Podcast (mp3)</title>
+<link>http://www.tuxradar.com/files/podcast/podcast_mp3.rss</link>
+<atom:link href="http://www.tuxradar.com/files/podcast/podcast_mp3.rss" rel="self" type="application/rss+xml"/>
+<language>en</language>
+<copyright>Released under the Creative Commons Attribution-Share Alike 3.0 Unported Licence</copyright>
+<description>The original five series of the Tux Radar podcast</description>
+<image>
+<url>https://bugreport.com</url>
+<title>TuxRadar Linux Podcast (mp3)</title>
+<link>https://bugreport/tux_radar_ia_mp3.rss</link>
+</image>
+<media:thumbnail url="http://www.tuxradar.com/files/podcast/tuxradar_thumb.jpg" />
+<itunes:author>Tux Radar</itunes:author>
+<itunes:summary>A now defunct podcast. Check out the Bug Report (https://bugreport.com) for Andrew, Ben, Graham and Mike's latest podcast </itunes:summary>
+<itunes:owner>
+<itunes:name>Tux Radar</itunes:name>
+<itunes:email>ben.everard@raspberrypi.org</itunes:email>
+</itunes:owner>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="http://www.tuxradar.com/files/podcast/tuxradar.jpg" />
+<itunes:category text="Technology">
+</itunes:category>
+
+<item>
+<title>Season 5 Episode 17</title>
+<itunes:author>Ben Everard, Andrew Gregory, Efrain Hernandez-Mendoza, Mike Saunders and Graham Morrison</itunes:author>
+<itunes:subtitle>Like the legend of the phoenix</itunes:subtitle>
+<description>
+In this episode: The founder of Puppy Linux retires. SteamOS has been announced by Valve and CyanogenMod gets $7m in funding. Hear our eclectic discoveries, the sound of Tanner's brains and your own opinions in the Internet Famous Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s05e17.mp3" length="48399586" 
+type="audio/mp3" />
+<pubDate>Fri, 27 Sep 2013 14:00:00 GMT</pubDate>
+<itunes:duration>57:41</itunes:duration>
+<itunes:keywords>Puppy, SteamOS, CyanogenMod, Gnome, Android, Linux, Linux Format, TuxRadar, ttfn</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-5-episode-17</guid>
+</item>
+
+
+<item>
+<title>Season 5 Episode 16</title>
+<itunes:author>Ben Everard, Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison</itunes:author>
+<itunes:subtitle>ROT-13</itunes:subtitle>
+<description>
+In this episode: Encryption is dead, but there are lots of great games in the new Humble Indie Bundle. FreeBSD ditches GCC and Intel clashes with Ubuntu. We've got some great discoveries, we dust down the old wheel of misfortune and discuss your opinions in the Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s05e16.mp3" length="74732269" 
+type="audio/mp3" />
+<pubDate>Thu, 12 Sep 2013 18:00:00 GMT</pubDate>
+<itunes:duration>1:10:45</itunes:duration>
+<itunes:keywords>NSA, Intel, FreeBSD, Humble Indie Bundle, Ubuntu, Canonical, Android, Linux, Linux Format, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-5-episode-16</guid>
+</item>
+
+
+<item>
+<title>Season 5 Episode 15</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison</itunes:author>
+<itunes:subtitle>Bomba Kabisa</itunes:subtitle>
+<description>
+In this episode: No more Groklaw and no Ubuntu Edge. ZTE's Firefox phone sells out quickly on eBay, and the exFAT filesystem is now open source. And as usual, we also have discoveries, challenges, brains and ballots!
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s05e15.mp3" length="37269046" 
+type="audio/mp3" />
+<pubDate>Fri, 30 Aug 2013 14:00:00 GMT</pubDate>
+<itunes:duration>0:45:55</itunes:duration>
+<itunes:keywords>Groklaw, Ubuntu Edge, Firefox, Samsung, exFAT, Ubuntu, Canonical, Android, Firefox, Linux, Linux Format, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-5-episode-15</guid>
+</item>
+
+<item>
+<title>Season 5 Episode 14</title>
+<itunes:author>Ben Everard, Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison</itunes:author>
+<itunes:subtitle>Daft Punk</itunes:subtitle>
+<description>
+In this episode: Tor (plus a Firefox vulnerability) has been compromised. Canonical's Ubuntu Edge compaign has some way to go (but they've just added a lower priced tier). And Jean-Baptiste Queru is leaving the Android Open Source Project. We've got some great discoveries, Ben succeeds brilliantly in our challenge, and there's an awesome Open Ballot too. 
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s05e14.mp3" length="55224808" 
+type="audio/mp3" />
+<pubDate>Thu, 08 Aug 2013 17:00:00 GMT</pubDate>
+<itunes:duration>1:07:15</itunes:duration>
+<itunes:keywords>Tor, Ubunut Edge, Ubuntu, Canonical, Android, Firefox, Linux, Linux Format, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-5-episode-14</guid>
+</item>
+
+
+<item>
+<title>Season 5 Episode 13</title>
+<itunes:author>Ben Everard, Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison, Chris Thornett</itunes:author>
+<itunes:subtitle>Edgy Ubuntu</itunes:subtitle>
+<description>
+In this episode: Canonical attempts to crowdfund its own cutting-edge smartphone and Linus Torvalds gets into an argument on the kernel mailing list. We also have some nice discoveries, a couple of great Brains submissions and the ever-awesome Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s05e13.mp3" length="37861105" 
+type="audio/mp3" />
+<pubDate>Thu, 01 Aug 2013 17:00:00 GMT</pubDate>
+<itunes:duration>0:45:32</itunes:duration>
+<itunes:keywords>Linus, Ubunut Edge, Ubuntu, Canonical, Gnome, Linux, Linux Format, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-5-episode-13</guid>
+</item>
+
+<item>
+<title>Season 5 Episode 12</title>
+<itunes:author>Ben Everard, Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison</itunes:author>
+<itunes:subtitle>The Sound of Music</itunes:subtitle>
+<description>
+In this episode: Cryptocat breaks. LXDE moves to Qt. Firefox phones are now available. Lubuntu and Kubuntu aren't going to Mir. Fedora 19 is out and Samsung is sponsoring a $4m developer challenge. We've got discoveries, an Open Ballot, and a rather surreal music listening section.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s05e12.mp3" length="56538487" 
+type="audio/mp3" />
+<pubDate>Wed, 10 Jul 2013 17:00:00 GMT</pubDate>
+<itunes:duration>1:07:33</itunes:duration>
+<itunes:keywords>Cryptocat, LXDE, Qt, Firefox phone, Lubuntu, Kubuntu, Fedora, Linux, Linux Format, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-5-episode-12</guid>
+</item>
+
+<item>
+<title>Season 5 Episode 11</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison</itunes:author>
+<itunes:subtitle>Hong Kong Phooey</itunes:subtitle>
+<description>
+In this episode: Where in the world is Edward Snowdon? Richard Stallman is now internet famous. Adobe and Citrix open source their stuff. Canonical's Ubuntu Phone now has its own club. Eben Upton gets a Silver Medal and the Ouya games console is available now. Hear our discoveries, the sound of people's brains, and your own mindvoices in the Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s05e11.mp3" length="43903251" 
+type="audio/mp3" />
+<pubDate>Thu, 27 Jun 2013 16:00:00 GMT</pubDate>
+<itunes:duration>53:47</itunes:duration>
+<itunes:keywords>NSA, Richard Stallman, Ubuntu, Raspberry Pi, Adobe, Citrix, Linux, Linux Format, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-5-episode-11</guid>
+</item>
+
+<item>
+<title>Season 5 Episode 10</title>
+<itunes:author>Ben Everard, Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison, Chris Thornett</itunes:author>
+<itunes:subtitle>PRISM schism</itunes:subtitle>
+<description>
+In this episode: It looks like Rockwell was right - somebody was watching him (and us). There's a great new Raspberry Pi installer and the President of the US promises action against patent trolls. Ubuntu's 'bug one' has been fixed and the EFF objects to DRM in HTML 5. As ever, hear our discoveries and your opinions in this epic length podcast. 
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s05e10.mp3" length="66944932" 
+type="audio/mp3" />
+<pubDate>Thu, 13 Jun 2013 17:00:00 GMT</pubDate>
+<itunes:duration>01:19:05</itunes:duration>
+<itunes:keywords>Prism, NSA, Ubuntu, Raspberry Pi, EFF, Linux, Linux Format, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-5-episode-10</guid>
+</item>
+
+<item>
+<title>Season 5 Episode 9</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison, Chris Thornett</itunes:author>
+<itunes:subtitle> Araminta Station</itunes:subtitle>
+<description>
+In this episode: Mint 15 is here! There's a new Fedora-based respin for the Raspberry Pi. The city of Munich and the country of Australia make great progress in moving towards open source and there's a new Humble Bundle. Hear our discoveries and your own Open Ballot opinions, plus, we welcome a new member to the team.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s05e09.mp3" length="48933105" 
+type="audio/mp3" />
+<pubDate>Thu, 30 May 2013 17:00:00 GMT</pubDate>
+<itunes:duration>00:57:18</itunes:duration>
+<itunes:keywords>Mint, Ubuntu, Fedora, Raspberry Pi, BitTorrent, Linux, Linux Format, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-5-episode-9</guid>
+</item>
+
+<item>
+<title>Season 5 Episode 8</title>
+<itunes:author>Ben Everard, Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison</itunes:author>
+<itunes:subtitle>Final Frontier + 1</itunes:subtitle>
+<description>
+In this episode: There's a critical vulnerability in the kernel. But relax, it's been fixed. The International Space Station is switching from Windows to Debian. But not Debian 7, which has just been released. The beginner's programming environment, Scratch 2.0, is out and the Raspberry Pi gets a super-light camera module. As always, hear our discoveries, our reports on the challenge and your own opinions in the Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s05e08.mp3" length="49498279" 
+type="audio/mp3" />
+<pubDate>Thu, 16 May 2013 17:00:00 GMT</pubDate>
+<itunes:duration>01:03:00</itunes:duration>
+<itunes:keywords>Ubuntu, kernel, ISS, Debian, Scratch, Raspberry Pi, BitTorrent, Linux, Linux Format, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-5-episode-8</guid>
+</item>
+
+<item>
+<title>Season 5 Episode 7</title>
+<itunes:author>Ben Everard, Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison and Mike Saunders</itunes:author>
+<itunes:subtitle>Kernel Saunders</itunes:subtitle>
+<description>
+In this episode: Firefox OS phones go on sale and promptly sell out. Ubuntu 13.04 has been released. There's a new alternative to Dropbox from BitTorrent, although its licencing isn't yet clear and the BeagleBone Black is slightly cheaper than a Raspberry Pi. Hear our particularly good discoveries, our report on last episode's KDE challenge and your own opinions in the Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s05e07.mp3" length="53620725" 
+type="audio/mp3" />
+<pubDate>Fri, 26 Apr 2013 15:00:00 GMT</pubDate>
+<itunes:duration>01:02:11</itunes:duration>
+<itunes:keywords>Ubuntu, Canonical, BeagleBone, Raspberry Pi, BitTorrent, Linux, Linux Format, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-5-episode-7</guid>
+</item>
+
+<item>
+<title>Season 5 Episode 6</title>
+<itunes:author>Ben Everard, Andrew Gregory, Efrain Hernandez-Mendoza and Graham Morrison</itunes:author>
+<itunes:subtitle>The Sultans Played Creole</itunes:subtitle>
+<description>
+In this episode: We've got oodles of Google news, Nvidia's new Optimus driver, Dell selling Ubuntu games PCs and our own discoveries. Plus a new podcast challenge and the Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s05e06.mp3" length="32090706" 
+type="audio/mp3" />
+<pubDate>Thu, 11 Apr 2013 23:00:00 GMT</pubDate>
+<itunes:duration>00:34:24</itunes:duration>
+<itunes:keywords>Google, Nvidia, Ubuntu, Linux, Linux Format, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-5-episode-6</guid>
+</item>
+
+
+<item>
+<title>Season 5 Episode 5</title>
+<itunes:author>Ben Everard, Andrew Gregory and Graham Morrison</itunes:author>
+<itunes:subtitle>SS Nostromo</itunes:subtitle>
+<description>
+In this episode: Samsung laptops have been fixed. OpenShot launches a Kickstarter campaign. Canonical courts Chinese officials and Ubuntu gets closer to a rolling release. Hear our suprisingly good discoveries, our woeful excuse for the lack of a live episode and your own questions in the Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s05e05.mp3" length="39449329" 
+type="audio/mp3" />
+<pubDate>Thu, 28 Mar 2013 12:00:00 GMT</pubDate>
+<itunes:duration>00:48:46</itunes:duration>
+<itunes:keywords>Samsung, Ubuntu, China, Canonical, Oscilloscopes, Linux, Linux Format, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-5-episode-5</guid>
+</item>
+
+<item>
+<title>Season 5 Episode 4</title>
+<itunes:author>Ben Everard, Andrew Gregory, Efrain Hernandez-Mendoza and Graham Morrison</itunes:author>
+<itunes:subtitle>Muphry's Law</itunes:subtitle>
+<description>
+In this episode: OpenSUSE 12.3 is out, Red Hat takes ownership of Java 6, SecureBoot is coming to FreeBSD and Ubuntu ditches Wayland for Mir. We report back on our challenge from a couple of episodes ago, come up with a new challenge, and discuss IT education in our Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s05e04.mp3" length="68440707" 
+type="audio/mp3" />
+<pubDate>Thu, 14 Mar 2013 18:00:00 GMT</pubDate>
+<itunes:duration>01:21:29</itunes:duration>
+<itunes:keywords>OpenSUSE, Ubuntu, Canonical, FreeBSD, Raspberry Pi, Linux, Linux Format, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-5-episode-4</guid>
+</item>
+
+<item>
+<title>Season 5 Episode 3</title>
+<itunes:author>Andrew Gregory, Efrain Hernandez-Mendoza and Graham Morrison</itunes:author>
+<itunes:subtitle>Burgess Meredith</itunes:subtitle>
+<description>
+In this episode: Canonical launches Ubuntu Touch for tablets. Steam has been officially released for Linux. LG has bought WebOS for its televisions. Tizen SDK 2.0 has been released and Mozilla says there's plenty of interest in its Firefox OS. Hear our discoveries and the interim results of our challenge, plus your own opinions in our internet famous Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s05e03.mp3" length="44425121" 
+type="audio/mp3" />
+<pubDate>Mon, 25 Feb 2013 17:00:00 GMT</pubDate>
+<itunes:duration>53:38</itunes:duration>
+<itunes:keywords>Cannonical, Ubuntu Touch, WebOS, LG, Steam, Mozilla, Firefox, Linux, Linux Format, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-5-episode-3</guid>
+</item>
+
+
+<item>
+<title>Season 5 Episode 2</title>
+<itunes:author>Ben Everard, Andrew Gregory, Efrain Hernandez-Mendoza and Graham Morrison</itunes:author>
+<itunes:subtitle>Boybands</itunes:subtitle>
+<description>
+In this episode: KDE 4.10 has been released and includes lots of Qt Quick enhancements. Ubuntu Phones are going to be available in October. Samsung laptops are breaking after a Linux installation and the 'Model A' Raspberry Pi is now available. Hear our discoveries, your own opinions in our Open Ballot and our brand new old section, Challenge Us!
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s05e02.mp3" length="49410611" 
+type="audio/mp3" />
+<pubDate>Mon, 11 Feb 2013 11:00:00 GMT</pubDate>
+<itunes:duration>59:08</itunes:duration>
+<itunes:keywords>Cannonical, Ubuntu, Fedora, KDE, Raspberry Pi, Linux, Linux Format, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-5-episode-2</guid>
+</item>
+
+<item>
+<title>Season 5 Episode 1</title>
+<itunes:author>Ben Everard, Andrew Gregory and Graham Morrison</itunes:author>
+<itunes:subtitle>Megaconz</itunes:subtitle>
+<description>
+In this episode: Canonical is to launch a phone. Fedora 18 has been released. Friends of Gnome are looking for money and Valve is to make a Linux-powered games console. Hear our first discoveries of 2013 and how you'd like the podcast to improve in season 5.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s05e01.mp3" length="44587638" 
+type="audio/mp3" />
+<pubDate>Mon, 28 Jan 2013 13:00:00 GMT</pubDate>
+<itunes:duration>53:08</itunes:duration>
+<itunes:keywords>Cannonical, Ubuntu, Fedora, Valve, Steam Box, Linux, Linux Format, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-5-episode-1</guid>
+</item>
+
+<item>
+<title>Season 4 Episode 24</title>
+<itunes:author>Ben Everard, Andrew Gregory, Efrain Hernandez-Mendoza and Graham Morrison</itunes:author>
+<itunes:subtitle>Merry Christmas!</itunes:subtitle>
+<description>
+In this episode: Samba 4  and Linux 3.7 have been released. Raspberry Pi is auctioning off new models. Humble Bundle had a THQ special without Linux support, and THQ has since filed for Chapter 11 Bankruptcy. Valve's Steam console has been confirmed and the Linux Steam client is now an open beta.The Internet remains free but UK Pirate Party forced to shut their proxy server after pressure from BPI, and the Snooper's Charter is now uncharted. All this plus our discoveries, your brains, and the internet famous Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s04e24.mp3" length="57811003" 
+type="audio/mp3" />
+<pubDate>Thu, 20 Dec 2012 17:00:00 GMT</pubDate>
+<itunes:duration>01:02:13</itunes:duration>
+<itunes:keywords>Apple, Samsung, Humble Bundle, THQ, Raspberry Pi, Steam, Valve, Ubuntu, Canonical, Linux, Linux Format, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-4-episode-24</guid>
+</item>
+
+<item>
+<title>Season 4 Episode 23</title>
+<itunes:author>Ben Everard, Andrew Gregory and Graham Morrison</itunes:author>
+<itunes:subtitle>Papa Mau</itunes:subtitle>
+<description>
+In this episode: The UN wants to control the internets. Fedora 18 adds Mate and Cinnamon. Matthew Garrett creates a way to boot Linux from UEFI Windows 8 machines. There's lots more Apple/Samsung shenanigans and a Linux-powered autonomous boat swims almost 17000 kms to Australia. We discover things, rant about things, and listen to your opinions in the Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s04e23.mp3" length="57143419" 
+type="audio/mp3" />
+<pubDate>Thu, 6 Dec 2012 17:30:00 GMT</pubDate>
+<itunes:duration>01:00:54</itunes:duration>
+<itunes:keywords>Apple, HTC, Mint, Red Hat, Samsung, NASA, UN, UEFI, Linux, Linux Format, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-4-episode-23</guid>
+</item>
+
+<item>
+<title>Season 4 Episode 22</title>
+<itunes:author>Ben Everard, Andrew Gregory and Graham Morrison</itunes:author>
+<itunes:subtitle>Happy Thanksgiving</itunes:subtitle>
+<description>
+In this episode: Linux Mint 14 has been released. Planet KDE does awesome work. There's an OpenStreetMap map-a-thon. Australia's government is TLD-shy. Red Hat invests in MongoDB, there may be life on Mars. Apple will have to reveal how much HTC is paying it, and the UEFI saga is turning nasty. Hear our non-audio related discoveries, and your own brains and opinions in the Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s04e22.mp3" length="43455557" 
+type="audio/mp3" />
+<pubDate>Thu, 22 Nov 2012 17:00:00 GMT</pubDate>
+<itunes:duration>47:29</itunes:duration>
+<itunes:keywords>Apple, HTC, Mint, Red Hat, Australia, Microsoft, NASA, Linux, Linux Format, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-4-episode-22</guid>
+</item>
+
+<item>
+<title>Season 4 Episode 21</title>
+<itunes:author>Ben Everard, Andrew Gregory and Graham Morrison</itunes:author>
+<itunes:subtitle>Sylvia</itunes:subtitle>
+<description>
+ In this episode: HP becomes a platinum member of Linux Foundation. Microsoft sponsors LinuxCon Europe. Steam for Linux Launched. FreeBSD now officially Clang-based. Android turns 5. Enlightenment 17 enters Alpha. Lots of bad news for Apple. UK government redefines open standard and the ext4 bug has been patched (well ... sort of). We've also got lots of discoveries, a single rant and the open ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s04e21.mp3" length="47985236" 
+type="audio/mp3" />
+<pubDate>Thu, 8 Nov 2012 17:00:00 GMT</pubDate>
+<itunes:duration>52:20</itunes:duration>
+<itunes:keywords>Apple, ext4, Ubuntu, LinuxCon, HP, Microsoft, E17, Linux, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-4-episode-21</guid>
+</item>
+
+<item>
+<title>Season 4 Episode 20</title>
+<itunes:author>Ben Everard, Andrew Gregory, Efrain Hernandez-Mendoza and Graham Morrison</itunes:author>
+<itunes:subtitle>Two cows and a house</itunes:subtitle>
+<description>
+In this episode: Raspberry Pi is nearly open source. Wayland 1.0  and Ubuntu 12.10 are  here. Mandriva is being reborn, again. Goophone-mini has been announced and Apple apologises to Samsung over its patent dispute. Americans can jailbreak their phones, but they can no longer unlock them. There's a problem with the ext4, and Amazon remotely wipes a customer's Kindle. Plus: hear the best ever Speak your Brains, our own discoveries and your own opinions in the Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s04e20.mp3" length="54798504" 
+type="audio/mp3" />
+<pubDate>Fri, 26 Oct 2012 17:00:00 GMT</pubDate>
+<itunes:duration>59:17</itunes:duration>
+<itunes:keywords>Apple, Samsung, ext4, Ubuntu, Amazon, Linux, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-4-episode-20</guid>
+</item>
+
+<item>
+<title>Season 4 Episode 19</title>
+<itunes:author>Ben Everard, Andrew Gregory and Graham Morrison</itunes:author>
+<itunes:subtitle>Vive la France</itunes:subtitle>
+<description>
+In this episode: More jury confusion on the Apple vs. Samsung case. Blue Systems sponsors KWin. Linux kernel 3.6 is out, and 3.7 is going to be ARM-unified. You can now shutdown Gnome 3.6 and the French adore le logiciel libre. Plus, hear our discoveries, our rants and raves, and your own opinions in the Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s04e19.mp3" length="42940561" 
+type="audio/mp3" />
+<pubDate>Wed, 10 Oct 2012 15:00:00 GMT</pubDate>
+<itunes:duration>45:24</itunes:duration>
+<itunes:keywords>Apple, kernel, KDE, Samsung, Linux, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-4-episode-19</guid>
+</item>
+
+<item>
+<title>Season 4 Episode 18</title>
+<itunes:author>Andrew Gregory, Efrain Hernandez-Mendoza and Graham Morrison</itunes:author>
+<itunes:subtitle>Happy Birthday GNU</itunes:subtitle>
+<description>
+Ubuntu embeds Amazon search results into its local search. There's a massive Android vulnerability. Cinnamon 1.6 is out and Nvidia is going to open up its Tegra GPU documentation. Hear our discoveries and listen to the internet famous, Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s04e18.mp3" length="38517319" 
+type="audio/mp3" />
+<pubDate>Thu, 27 Sep 2012 17:00:00 GMT</pubDate>
+<itunes:duration>42:09</itunes:duration>
+<itunes:keywords>Ubuntu, Canonical, Android, Samsung, Linux, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-4-episode-18</guid>
+</item>
+
+
+<item>
+<title>Season 4 Episode 17</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison</itunes:author>
+<itunes:subtitle>World Exclusive</itunes:subtitle>
+<description>
+In this episode: OpenSUSE 12.2 has been released, the Raspberry Pi is now made on the UK, Michael Meeks dives into the on-going Linux desktop discussions and Alan Turing is immortalised with his own Monopoly set. Discover our discoveries and hear why our 'open ballot' is the second hit in a Google search for 'open ballot'.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s04e17.mp3" length="37797257" 
+type="audio/mp3" />
+<pubDate>Thu, 13 Sep 2012 17:00:00 GMT</pubDate>
+<itunes:duration>40:45</itunes:duration>
+<itunes:keywords>TuxRadar, OpenSUSE, desktop, Raspberry Pi, hacking, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-4-episode-17</guid>
+</item>
+
+
+<item>
+<title>Season 4 Episode 16</title>
+<itunes:author>Ben Everard, Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison</itunes:author>
+<itunes:subtitle>Patent orgy</itunes:subtitle>
+<description>
+In this episode: Apple vs. Samsung woes. Mageia is getting very popular. Twitter joins the Linux Foundation and Miguel de Icaza thinks OS X killed the Linux desktop. Share in the wonder of our discoveries, hear Andrew and Graham rant and rave and feel part of the team in Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s04e16.mp3" length="38984953" 
+type="audio/mp3" />
+<pubDate>Thu, 30 Aug 2012 17:00:00 GMT</pubDate>
+<itunes:duration>38:46</itunes:duration>
+<itunes:keywords>TuxRadar, Apple, Samsung, OS X, patents, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-4-episode-16</guid>
+</item>
+
+<item>
+<title>Season 4 Episode 15</title>
+<itunes:author>Andrew Gregory, Ben Everard, Gary Walker</itunes:author>
+<itunes:subtitle>And then there were three</itunes:subtitle>
+<description>
+In this episode: Abandoned by Jon, Graham and Effy, three brave LXFers soldier on. We discuss CDE, Debian, XFCE, iCloud, the Ubuntu App Showdown and the Liberated Pixel Cup. We discover Linux Mint 13, dd, the Cask Corner, and Stella (the distro, not the beer). We Get upset about the British transport system and Ubuntu's package management, and happy about Rasbian's setup tool. And we get your views on whether Linux can corner the gaming market. Oh, and apologies for the audio quality: there were some gremlins in the recording software. Normal service will be resumed in a fortnight.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s04e15.mp3" length="54563403" 
+type="audio/mp3" />
+<pubDate>Thu, 16 Aug 2012 13:26:00 GMT</pubDate>
+<itunes:duration>37:53</itunes:duration>
+<itunes:keywords>TuxRadar, CDE, XFCE, iCloud, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-4-episode-15</guid>
+</item>
+
+<item>
+<title>Season 4 Episode 14</title>
+<itunes:author>Andrew Gregory, Ben Everard, Graham Morrison, Jonathan Roberts</itunes:author>
+<itunes:subtitle>Silver lining</itunes:subtitle>
+<description>
+In this episode: There's a problem with Nvidia's proprietary graphics drivers and it looks like Nokia might sell its interest in the Qt toolkit. There's another Linux audio framework on the horizon and we meet Linus Torvalds. Share in our discoveries, listen to fellow listeners' brains and hear your own opinions in our Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s04e14.mp3" length="42292033" 
+type="audio/mp3" />
+<pubDate>Thu, 2 Aug 2012 17:11:00 GMT</pubDate>
+<itunes:duration>45:32</itunes:duration>
+<itunes:keywords>TuxRadar, Nvidia, Nokia, Qt, Linux, Linus, Portland, OSCON</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-4-episode-14</guid>
+</item>
+
+<item>
+<title>Season 4 Episode 13</title>
+<itunes:author>Gary Walker, Efrain Hernandez-Mendoza, Ben Everard and Jonathan Roberts</itunes:author>
+<itunes:subtitle>Uncle Effy</itunes:subtitle>
+<description>
+In this episode: Steam'd Penguins. New hope for MeeGo. Buy loads of Raspberry Pis. Redphone is now open source. Project Sputnik has entered beta. Ouya open source console breaks Kickstarter records. Hear our on topic discoveries, your own opinions in the Open Ballot and some ranting and raving.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s04e13.mp3" length="49379247" 
+type="audio/mp3" />
+<pubDate>Wed, 18 Jul 2012 15:09:00 GMT</pubDate>
+<itunes:duration>45:09</itunes:duration>
+<itunes:keywords>TuxRadar, Wine, Valve, Steam, Raspberry, Ouya</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-4-episode-13</guid>
+</item>
+
+<item>
+<title>Season 4 Episode 12</title>
+<itunes:author>Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison and Jonathan Roberts</itunes:author>
+<itunes:subtitle>Higgs Boson</itunes:subtitle>
+<description>
+In this episode: The Higgs Boson has been discovered-ish. An extra nano second has wreaked havoc on Linux servers. Diablo III runs on Wine. Ubuntu drops Grub 2 over secure boot worries,  and your comments from the last podcast are internet famous. Hear our better-than-average discoveries and your own opinions, in their original format, in our Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s04e12.mp3" length="41297443" 
+type="audio/mp3" />
+<pubDate>Thu, 05 Jul 2012 17:00:00 GMT</pubDate>
+<itunes:duration>45:09</itunes:duration>
+<itunes:keywords>Higgs Boson, Ubuntu, Grub, Blizzard, Wine, Linux Format, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-4-episode-12</guid>
+</item>
+
+<item>
+<title>Season 4 Episode 11</title>
+<itunes:author>Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison and Jonathan Roberts</itunes:author>
+<itunes:subtitle>Shineness</itunes:subtitle>
+<description>
+In this episode: Linus doesn't like Nvidia. The Unity 4 games engine is coming to Linux. There's an Ubuntu app developer contest and Microsoft unveils surface computers and Windows phone 8. Hear our discoveries then your own opinions in the Speak your Brains section. And our Open Ballot is now the 4th result in Google when you search for 'open ballot'.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s04e11.mp3" length="42482864" 
+type="audio/mp3" />
+<pubDate>Fri, 22 Jun 2012 17:00:00 GMT</pubDate>
+<itunes:duration>46:53</itunes:duration>
+<itunes:keywords>Nvidia, Linus Torvalds, Ubuntu, Unity3D, Microsoft, Surface, Linux Format, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-4-episode-11</guid>
+</item>
+
+
+<item>
+<title>Season 4 Episode 10</title>
+<itunes:author>Ben Everard, Efrain Hernandez-Mendoza, Graham Morrison and Jonathan Roberts</itunes:author>
+<itunes:subtitle>Everybody loves Linus</itunes:subtitle>
+<description>
+In this episode: Two of the biggest distributions of the year have been released - Fedora 17 and Mint 13. Red Hat finds a solution to the UEFI problem with Windows 8 certified hardware, and both Steam and Carmageddon Reincarnation are coming to Linux. We've got more discoveries, a great Speak Your Brains section and one of the best Open Ballots for weeks.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s04e10.mp3" length="48198055" 
+type="audio/mp3" />
+<pubDate>Thu, 7 Jun 2012 17:00:00 GMT</pubDate>
+<itunes:duration>44:13</itunes:duration>
+<itunes:keywords>Fedora, Red Hat, Mint, Steam, Google, Chrome, Microsoft, Linux Format, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-4-episode-10</guid>
+</item>
+
+<item>
+<title>Season 4 Episode 9</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Jonathan Roberts</itunes:author>
+<itunes:subtitle>Minted</itunes:subtitle>
+<description>
+In this episode: Linux Mint 13 has been released. Chrome becomes the number one web browser (kinda). Google beats Oracle. Mandriva now belongs to you. KDE has announced a new Partner Network and there's going to be a new rival to the Raspberry Pi. Share in our discoveries, speak your brains and hear your opinions in our Open Ballot, a section which has very little to do with ballots these days.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s04e09.mp3" length="39971800" 
+type="audio/mp3" />
+<pubDate>Thu, 24 May 2012 17:00:00 GMT</pubDate>
+<itunes:duration>44:13</itunes:duration>
+<itunes:keywords>Mint, Google, Chrome, Oracle, Mandriva, VIA, Linux Format, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-4-episode-9</guid>
+</item>
+
+
+<item>
+<title>Season 4 Episode 8</title>
+<itunes:author>Ben Everard, Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison and Jonathan Roberts</itunes:author>
+<itunes:subtitle>Odysseus Returns</itunes:subtitle>
+<description>
+In this episode: Electronic Arts and Canonical make an important announcement. Microsoft won't allow Firefox on Windows RT. Ubuntu will ship on 5% of PCs worldwide next year and Linux Format magazine gets into the news. As ever, share our discoveries, hear our rants and raves and listen to your own opinions in the Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s04e08.mp3" length="38290668" 
+type="audio/mp3" />
+<pubDate>Thu, 10 May 2012 17:00:00 GMT</pubDate>
+<itunes:duration>41:39</itunes:duration>
+<itunes:keywords>Ubuntu, Canonical, Microsoft, Linux Format, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-4-episode-8</guid>
+</item>
+
+<item>
+<title>Season 4 Episode 7</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Jonathan Roberts</itunes:author>
+<itunes:subtitle>UCubed</itunes:subtitle>
+<description>
+In this episode: Ubuntu 12.04 LTS has been released. Steam might be coming to Linux again. Google Drive should be on Linux, but isn't. And Linus wins the Millenium Technology Prize. Hear our compressed discoveries and your own opinions in both the Open Ballot and Speak Your Brains sections.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s04e07.mp3" length="33997181" 
+type="audio/mp3" />
+<pubDate>Thu, 26 Apr 2012 17:00:00 GMT</pubDate>
+<itunes:duration>37:20</itunes:duration>
+<itunes:keywords>Ubuntu, Canonical, Android, Google, Linus, Microsoft, Linux Format, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-4-episode-7</guid>
+</item>
+
+<item>
+<title>Season 4 Episode 6</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison</itunes:author>
+<itunes:subtitle>Skeleton Crew</itunes:subtitle>
+<description>
+In this episode: Kubuntu has a new sponsor. Many OS X users are suffering from a trojan called Flashback. The awesome Raspberry Pi has passed CE testing. Microsoft is now a significant contributor to the Linux kernel. There's a major update to MythTV, Android has been merged with the Linux kernel 3.3 and the UK government wants unprecedented access to your online life. As ever, share our discoveries and hear your own opinions in the fabulous Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s04e06.mp3" length="31702621" 
+type="audio/mp3" />
+<pubDate>Thu, 12 Apr 2012 14:00:00 GMT</pubDate>
+<itunes:duration>34:06</itunes:duration>
+<itunes:keywords>Kubuntu, MythTV, Android, Raspberry Pi, Microsoft, Linux Format, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-4-episode-6</guid>
+</item>
+
+<item>
+<title>Season 4 Episode 5</title>
+<itunes:author>Ben Everard, Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison, Jonathan Roberts and Gary Walker</itunes:author>
+<itunes:subtitle>Penguin Jazz Cafe</itunes:subtitle>
+<description>
+In this episode: Even more Raspberry Pi delay. Munich saves the euro by switching to Linux. Vivaldi has sold out, Gnome 3.4 has been released and Microsoft releases lots of ASP stuff under the Apache 2.0 licence. Share our discoveries, hear us rant and rave and study into your own opinions in the internet famous, Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s04e05.mp3" length="42625895" 
+type="audio/mp3" />
+<pubDate>Thu, 29 Mar 2012 17:00:00 GMT</pubDate>
+<itunes:duration>45:53</itunes:duration>
+<itunes:keywords>Raspberry Pi, Munich, Gnome, Microsoft, Linux Format, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-4-episode-5</guid>
+</item>
+
+<item>
+<title>Season 4 Episode 4</title>
+<itunes:author>Ben Everard, Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison, Jonathan Roberts and Gary Walker</itunes:author>
+<itunes:subtitle>Perpetual Bond</itunes:subtitle>
+<description>
+In this episode: The Arch distribution is ten years old! Ubuntu adoption has overtaken RHEL, according to Mark Shuttleworth. Raspberry Pi faces further delays and nVidia joins the Linux Foundation. Hear our discoveries - including a new addition - and hear your own views in our famous Speak Your Brains and Open Ballot sections.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s04e04.mp3" length="38342039" 
+type="audio/mp3" />
+<pubDate>Thu, 15 Mar 2012 17:00:00 GMT</pubDate>
+<itunes:duration>42:14</itunes:duration>
+<itunes:keywords>Arch, Ubuntu, Canonical, Raspberri Pi, nVidia, TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-4-episode-4</guid>
+</item>
+
+<item>
+<title>Season 4 Episode 3</title>
+<itunes:author>Ben Everard, Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison and Jonathan Roberts</itunes:author>
+<itunes:subtitle>The Guild of Linux Podcasters</itunes:subtitle>
+<description>
+In this episode: Raspberry Pi is out, and sold out. Mozilla kicks Boot to Gecko into game. OpenSUSE annoys Linus Torvalds and Canonical has announced a smartphone/PC mashup. Learn about Cheetahs, secret smartphones and your own opinions in our infamous Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s04e03.mp3" length="38924659" 
+type="audio/mp3" />
+<pubDate>Fri, 2 Mar 2012 17:00:00 GMT</pubDate>
+<itunes:duration>42:16</itunes:duration>
+<itunes:keywords>Ubuntu, Canonical, SUSE, Raspberri Pi, CheetahsFirefox, TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-4-episode-3</guid>
+</item>
+
+<item>
+<title>Season 4 Episode 2</title>
+<itunes:author>Ben Everard, Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison and Jonathan Roberts</itunes:author>
+<itunes:subtitle>Lilley's Pear and Apple Cider</itunes:subtitle>
+<description>
+In this episode: XBMC Eden is nearly out. There's a new Gnome applications design guide. Raspberry Pi has announced a manufacturing date. Canonical announce the Ubuntu Enterprise Remix and ends support for Kubuntu. Linux Foundation says Linux jobs are on the up and LibreOffice 3.5 is out. Also, hear the sound of our discoveries, a listener's submission for 'Speak your Brains' and the rumble of a battle in our Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s04e02.mp3" length="50035210" 
+type="audio/mp3" />
+<pubDate>Thu, 16 Feb 2012 17:00:00 GMT</pubDate>
+<itunes:duration>52:51</itunes:duration>
+<itunes:keywords>Ubuntu, Canonical, SUSE, Raspberri Pi, Westgate Pug, KDE, Plasma, Firefox, TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-4-episode-2</guid>
+</item>
+
+<item>
+<title>Season 4 Episode 1</title>
+<itunes:author>Ben Everard, Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison and Jonathan Roberts</itunes:author>
+<itunes:subtitle>Freaky Friday</itunes:subtitle>
+<description>
+In this episode: We turn our news section into a lightening news section and briefly discuss Ubuntu, Red Hat, Plasma Active, Tizen, GKH, Samsung and Firefox. Hear our discoveries from the last couple of months, our rants and raves and your own awesome opinions in our internet famous Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s04e01.mp3" length="45506130" 
+type="audio/mp3" />
+<pubDate>Fri, 3 Feb 2012 11:00:00 GMT</pubDate>
+<itunes:duration>48:49</itunes:duration>
+<itunes:keywords>Ubuntu, Red Hat, Plasma, Firefox, TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-4-episode-1</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 24</title>
+<itunes:author>Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison, Jonathan Roberts and Mike Saunders</itunes:author>
+<itunes:subtitle>Live from the WestGate Pub</itunes:subtitle>
+<description>
+In this episode: HP gives WebOS to the world, and Chrome is more secure than Firefox (according to Google). We discover an 80s games magazine, a Linux games client, a museum in Mexico and Mint's upgrade policy. Hear your views in our Open Ballot , plus, Mike joins us, and Effy has made another video!
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s03e24.mp3" length="57773559" 
+type="audio/mp3" />
+<pubDate>Thu, 15 Dec 2011 11:00:00 GMT</pubDate>
+<itunes:duration>61:03</itunes:duration>
+<itunes:keywords>Chrome, Firefox, Mint, Android, Mexico, TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-3-episode-24</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 23</title>
+<itunes:author>Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison, Jonathan Roberts</itunes:author>
+<itunes:subtitle>Extra Strong Mint</itunes:subtitle>
+<description>
+In this episode: Linux Mint 12 has been released and it includes an innovative new take on Gnome Shell. Also, lots of smartphones could be running a rootkit-like piece of software and we discover things, read your views and discuss whether a Computer Science degree is worth the investment.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s03e23.mp3" length="51383525" 
+type="audio/mp3" />
+<pubDate>Thu, 1 Dec 2011 18:00:00 GMT</pubDate>
+<itunes:duration>55:29</itunes:duration>
+<itunes:keywords>Unity, Mint, Android, Gnome Linux Format, TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-3-episode-23</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 22</title>
+<itunes:author>Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison, Jonathan Roberts, Mike Saunders</itunes:author>
+<itunes:subtitle>Live from Mission Burrito</itunes:subtitle>
+<description>
+In this episode: Fedora 16 has been released, Ubuntu may not include Banshee next time, and Mint may have found a way to upgrade to Gnome 3.2. Hear our discoveries and your opinions, and enjoy the lunchtime ambiance of an authentic Mexican restaurant.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s03e22.mp3" length="37993516" 
+type="audio/mp3" />
+<pubDate>Thu, 17 Nov 2011 12:00:00 GMT</pubDate>
+<itunes:duration>42:20</itunes:duration>
+<itunes:keywords>Ubuntu, Canonical, Fedora, WebOS, Linux Format, TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-3-episode-22</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 21</title>
+<itunes:author>Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison, Jonathan Roberts, Mike Saunders</itunes:author>
+<itunes:subtitle>Vienna Calling</itunes:subtitle>
+<description>
+In this episode: Mark Shuttleworth wants Ubuntu to be everywhere within the next couple of years, and we cover Nokia's developers' conference from last week. Listen to our awesome discoveries, share our joy and mirth in the new section and hear your own opinions in the wonderful Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s03e21.mp3" length="41269512" 
+type="audio/mp3" />
+<pubDate>Wed, 2 Nov 2011 12:00:00 GMT</pubDate>
+<itunes:duration>45:55</itunes:duration>
+<itunes:keywords>Ubuntu, Canonical, Nokia, Qt, Android, Linux Format, TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-3-episode-21</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 20</title>
+<itunes:author>Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison, Jonathan Roberts, Mike Saunders</itunes:author>
+<itunes:subtitle>Whisky Galore</itunes:subtitle>
+<description>
+In this episode:Ubuntu 11.10 has been released and includes lots of innovation and fixes. LibreOffice is coming to both a web browser and Android device near you, and co-founder of UNIX, Dennis Ritchie, has died. Share in the joy of our discoveries, hear us rant and rave, and listen to your own opinions in our Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s03e20.mp3" length="38243328" 
+type="audio/mp3" />
+<pubDate>Thu, 20 Oct 2011 12:00:00 GMT</pubDate>
+<itunes:duration>40:51</itunes:duration>
+<itunes:keywords>Ubuntu, Canonical, UNIX, LibreOffice, Linux Format, TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-3-episode-20</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 19</title>
+<itunes:author>Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison, Jonathan Roberts, Mike Saunders</itunes:author>
+<itunes:subtitle>Best Laid Schemes</itunes:subtitle>
+<description>
+In this episode: Canonical launches an app developer portal and there's a new mobile Linux initiative. We create a whole new section of the podcast, discover lots of things and discuss whether secure booting will hinder Linux adoption.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s03e19.mp3" length="51107845" 
+type="audio/mp3" />
+<pubDate>Thu, 6 Oct 2011 10:00:00 GMT</pubDate>
+<itunes:duration>56:21</itunes:duration>
+<itunes:keywords>Ubuntu, Canonical, Microsoft, UEFI, Linux Format, TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-3-episode-19</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 18</title>
+<itunes:author>Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison, Jonathan Roberts, Mike Saunders</itunes:author>
+<itunes:subtitle>Maybe Baby</itunes:subtitle>
+<description>
+In this episode: Ubuntu should move to a monthly release, according to Scott Remnant. Bruce Perrens has come up with a new scheme for copyright ownership and Linux Format turns 150. Hear how successful we are at discovering things, building mesh networks and thinking up excuses.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s03e18.mp3" length="37537399" 
+type="audio/mp3" />
+<pubDate>Mon, 19 Sep 2011 10:00:00 GMT</pubDate>
+<itunes:duration>42:38</itunes:duration>
+<itunes:keywords>Unity, Ubuntu, Perens, Linux Format, TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-3-episode-18</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 17</title>
+<itunes:author>Graham Morrison, Jonathan Roberts, Mike Saunders</itunes:author>
+<itunes:subtitle>And Then There Were Three</itunes:subtitle>
+<description>
+In this episode: Against all odds, Mandriva 2011 has been released while HP looks set to drop WebOS and its TouchPad tablet. We discover things, provide an update on our wireless mesh project and listen to your opinions in the Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s03e17.mp3" length="48382682" 
+type="audio/mp3" />
+<pubDate>Thu, 1 Sep 2011 13:00:00 GMT</pubDate>
+<itunes:duration>53:18</itunes:duration>
+<itunes:keywords>Mandriva, HP, Mozilla, Linus, TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-3-episode-17</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 16</title>
+<itunes:author>Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison, Jonathan Roberts, Mike Saunders</itunes:author>
+<itunes:subtitle>Linux Surprise</itunes:subtitle>
+<description>
+In this episode: Google spends $12.5 billion acquiring Motorola's smart phone division. Linus switches from Gnome to Xfce and KDE 5 development is about to start. We discover things, draw our own boxes, and listen to your views in the open ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s03e16.mp3" length="50668833" 
+type="audio/mp3" />
+<pubDate>Thu, 18 Aug 2011 11:00:00 GMT</pubDate>
+<itunes:duration>55:54</itunes:duration>
+<itunes:keywords>Mozilla, Google, Motorola, Linus, KDE, TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-3-episode-16</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 15</title>
+<itunes:author>Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison, Jonathan Roberts, Mike Saunders</itunes:author>
+<itunes:subtitle>Batting for freedom</itunes:subtitle>
+<description>
+In this episode: KDE 4.7 has been released and it's awesome. Microsoft and SUSE  reaffirm their their patent vows and Chrome is now the most popular browser in the UK. We discover some cool things, write our own Linux jingles and discuss what Linux might look like in ten years. 
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s03e15.mp3" length="40466420" type="audio/mp3" />
+<pubDate>Thu, 4 Aug 2011 15:00:00 GMT</pubDate>
+<itunes:duration>0:45:00</itunes:duration>
+<itunes:keywords>Microsoft, SUSE, Chrome, Google, KDE, TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-3-episode-15</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 14</title>
+<itunes:author>Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison, Jonathan Roberts, Mike Saunders</itunes:author>
+<itunes:subtitle>Live from Andrew's House</itunes:subtitle>
+<description>
+In this episode: Apple asserts its patents against HTC. CentOS 6 has been released while GNU Hurd might be ready for the next Debian. Listen to our discoveries and your opinions, and share our joy in finally managing to complete a You Dare Us challenge.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s03e14.mp3" length="59983990" type="audio/mp3" />
+<pubDate>Thu, 21 Jul 2011 13:00:00 GMT</pubDate>
+<itunes:duration>1:03:47</itunes:duration>
+<itunes:keywords>Apple, HTC, CentOS, Google, Hurd, TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-3-episode-14</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 13</title>
+<itunes:author>Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison, Jonathan Roberts, Mike Saunders</itunes:author>
+<itunes:subtitle>Wizard of OS</itunes:subtitle>
+<description>
+In this episode: Sabayon 6 has been released, Google launches a new social network and Red Hat is doing well. Share in our discoveries, hear our ideas for a 'You Dare Us' replacement and you tackle Firefox version numbers in our Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s03e13.mp3" length="59007940" type="audio/mp3" />
+<pubDate>Thu, 7 Jul 2011 10:00:00 GMT</pubDate>
+<itunes:duration>1:05:50</itunes:duration>
+<itunes:keywords>Sabayon, Fedora, Red Hat, Google, Firefox, Gnome Shell, Unity, TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-3-episode-13</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 12</title>
+<itunes:author>Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison, Jonathan Roberts, Mike Saunders</itunes:author>
+<itunes:subtitle>Air Lacquer</itunes:subtitle>
+<description>
+In this episode: Chrome might replace Firefox in future versions of Ubuntu. Fedora 16 will make Btrfs the default filesystem. Firefox 5 has been released and Adobe is dropping Linux desktop support for Air. Share our cool discoveries from the last two weeks, hear how we fared installing Linux whilst blindfolded and we discuss your opinions in our Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s03e12.mp3" length="59199134" type="audio/mp3" />
+<pubDate>Thu, 23 Jun 2011 10:00:00 GMT</pubDate>
+<itunes:duration>1:04:39</itunes:duration>
+<itunes:keywords>Btrfs, Fedora, Ubuntu, Firefox, Adobe, Air, TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-3-episode-12</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 11</title>
+<itunes:author>Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison, Jonathan Roberts, Mike Saunders</itunes:author>
+<itunes:subtitle>Come back Mike!</itunes:subtitle>
+<description>
+In this episode: Mageia 1.0 has been released while ASUS promises three new netbooks running Linux. Meanwhile, back in California, Oracle tries to give OpenOffice.org to the Apache Foundation and you can hear some of our best discoveries, our worst challenge result, and your own opinions in our Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s03e11.mp3" length="55670364" type="audio/mp3" />
+<pubDate>Thu, 9 Jun 2011 17:00:00 GMT</pubDate>
+<itunes:duration>1:03:47</itunes:duration>
+<itunes:keywords>Bugs, Mageia, Oracle, Unity, TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-3-episode-11</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 10</title>
+<itunes:author>Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison, Jonathan Roberts, Mike Saunders</itunes:author>
+<itunes:subtitle>Lovelock and load</itunes:subtitle>
+<description>
+In this episode: Fedora 15 has arrived and the next release of the kernel may be called 3.0. We discover some interesting things, comment on the awesome IRC session we all joined, come up with an adopt-a-project plan and ask, should Gnome become Linux-only?
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s03e10.mp3" length="54328147" type="audio/mp3" />
+<pubDate>Thu, 26 May 2011 17:00:00 GMT</pubDate>
+<itunes:duration>1:01:24</itunes:duration>
+<itunes:keywords>Fedora, MeeGo, IRC, kernel, TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-3-episode-10</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 9</title>
+<itunes:author>Andrew Gregory,Graham Morrison, Jonathan Roberts, Mike Saunders</itunes:author>
+<itunes:subtitle>Final Frontier</itunes:subtitle>
+<description>
+In this episode: David Braben creates a low-cost Linux machine. Matt Zimmerman leaves Canonical while Mark Shuttleworth wants 200 million Ubuntu users within 4 years. Discover our discoveries, hear the latest conversion stories from TuxRadar and join us on IRC.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s03e09.mp3" length="46975949" type="audio/mp3" />
+<pubDate>Thu, 12 May 2011 14:00:00 GMT</pubDate>
+<itunes:duration>51:01</itunes:duration>
+<itunes:keywords>Ubuntu, Braben, IRC, TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-3-episode-9</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 8</title>
+<itunes:author>Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison, Jonathan Roberts, Mike Saunders</itunes:author>
+<itunes:subtitle>Nutty Narwhal</itunes:subtitle>
+<description>
+In this episode: Ubuntu 11.04 is here, while Oracle drops OpenOffice.org, and  there's a third humble indie bundle. Discover our discoveries, hear how we fared with Gnome Shell and the results of our Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s03e08.mp3" length="51923985" type="audio/mp3" />
+<pubDate>Thu, 28 Apr 2011 13:00:00 GMT</pubDate>
+<itunes:duration>55:43</itunes:duration>
+<itunes:keywords>Ubuntu, Gnome, Unity, Oracle, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-3-episode-8</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 7</title>
+<itunes:author>Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison, Jonathan Roberts, Mike Saunders</itunes:author>
+<itunes:subtitle>Better late than never</itunes:subtitle>
+<description>
+In this episode: Gnome 3.0 has been released while Nokia takes back its Symbian
+operating system. Red Hat is approaching $1b in revenue and Groklaw is calling it a day. Share in our discoveries, hear our responses to your emails and letters and join us in welcoming a new member to the team.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s03e07.mp3" length="69532752" type="audio/mp3" />
+<pubDate>Thu, 14 Apr 2011 13:00:00 GMT</pubDate>
+<itunes:duration>74:41</itunes:duration>
+<itunes:keywords>Fedora, Gnome, Firefox, Red Hat, Groklaw, Nokia, TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-3-episode-7</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 6</title>
+<itunes:author>Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>A message from our sponsors</itunes:subtitle>
+<description>
+In this episode: Canonical and Gnome may benefit from some relationship counselling. GTK+ 3.2 will enable you to run Gnome apps through a web browser. The Debian Derivatives Exchange (DEX) project has launched and Firefox 4 is here. Share our discoveries, listen to our marketing slogans and hear your own opinions in our Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s03e06.mp3" length="55509068" type="audio/mp3" />
+<pubDate>Thu, 24 Mar 2011 13:00:00 GMT</pubDate>
+<itunes:duration>58:08</itunes:duration>
+<itunes:keywords>Canonical, Gnome, Firefox, Debian, DEX, TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-3-episode-6</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 5</title>
+<itunes:author>Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Stallman wasn't stalling</itunes:subtitle>
+<description>
+In this episode: Gnome drops both the maximise and minimise buttons. Mark Shuttleworth admits mistakes were made over the Banshee debacle and Nokia sells most of Qt. Discover our discoveries and challenge results, and hear your own opinions in the Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s03e05.mp3" length="55480913" type="audio/mp3" />
+<pubDate>Thu, 10 Mar 2011 13:00:00 GMT</pubDate>
+<itunes:duration>58:50</itunes:duration>
+<itunes:keywords>Canonical, Banshee, Ubuntu, Gnome, TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-3-episode-5</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 4</title>
+<itunes:author>Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Qt, or not Qt?</itunes:subtitle>
+<description>
+In this episode: Microsoft and Nokia form an alliance and the GPLv3 might not be welcome on Windows Phone. Canonical gets controversial with Banshee while openSUSE and Fedora users might have to wait for Unity. Hear our discoveries, our limited success with the challenge, and your own opinions in our Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s03e04.mp3" length="52809482" type="audio/mp3" />
+<pubDate>Thu, 24 Feb 2011 13:00:00 GMT</pubDate>
+<itunes:duration>56:00</itunes:duration>
+<itunes:keywords>Microsoft, Android, Canonical, Ubuntu, Crunchbang, TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-3-episode-4-2</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 3</title>
+<itunes:author>Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Flying Pigs</itunes:subtitle>
+<description>
+In this episode: We try to bury the news, which includes the release of Debian 6.0 and KDE 4.6, along with some Android rumours. Hear how we faired with our challenge to contribute to an open source project, and share our discoveries from the last two weeks.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s03e03.mp3" length="48979093" type="audio/mp3" />
+<pubDate>Thu, 10 Feb 2011 14:00:00 GMT</pubDate>
+<itunes:duration>52:44</itunes:duration>
+<itunes:keywords>Google, Debian, KDE, Android, Gnome, TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-3-episode-3</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 2</title>
+<itunes:author>Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Overtaking Manoeuvres</itunes:subtitle>
+<description>
+In this episode: Ubuntu is going to bundle Qt libraries with its base install. Google will no longer bundle H.264  with Chrome and Firefox 4 will only have limited hardware acceleration. Share our discoveries, try XFCE, and listen to your own conversion stories in our Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s03e02.mp3" length="66139645" type="audio/mp3" />
+<pubDate>Thu, 27 Jan 2011 14:00:00 GMT</pubDate>
+<itunes:duration>70:39</itunes:duration>
+<itunes:keywords>Canonical, Qt, XFCE, Android, KDE, TuxRadar, Linux, LibreOffice</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-3-episode-2</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 1</title>
+<itunes:author>Andrew Gregory, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Overtaking Manoeuvres</itunes:subtitle>
+<description>
+In this episode: Firefox overtakes Internet Explorer in Europe while Android overtakes iPhone in the US, and TransGaming transforms Cedega into the GameTree Developer Program. Discover our new section and hear your own opinions in our Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s03e01.mp3" length="41513106" type="audio/mp3" />
+<pubDate>Thu, 13 Jan 2011 12:00:00 GMT</pubDate>
+<itunes:duration>45:58</itunes:duration>
+<itunes:keywords>Android, Apple, KDE, TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-3-episode-1</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 24</title>
+<itunes:author>Andrew Gregory, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Don't look back in anger</itunes:subtitle>
+<description>
+In this episode: We take a look back at our favourite news stories, discoveries, dares and ballots from the previous 23 episodes and ask you to choose your biggest Linux-related events from 2010.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s02e24.mp3" length="37146410" type="audio/mp3" />
+<pubDate>Thu, 23 Dec 2010 12:00:00 GMT</pubDate>
+<itunes:duration>44:39</itunes:duration>
+<itunes:keywords>KDE, Oracle, Google, Java, Android, Gnome, TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-2-episode-24</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 23</title>
+<itunes:author>Andrew Gregory, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Join Us!</itunes:subtitle>
+<description>
+In this episode: The KDE team rebrands KOffice into the Calligra Suite. OpenSUSE unveils a rolling release version of its distribution and Google's Chrome OS has been delayed until next year. This time, we remember our discoveries, and ask whether next year might really be the year of Linux on the desktop.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s02e23.mp3" length="48581062" type="audio/mp3" />
+<pubDate>Thu, 9 Dec 2010 16:00:00 GMT</pubDate>
+<itunes:duration>57:29</itunes:duration>
+<itunes:keywords>KDE, Calligra, TuxRadar, OpenSUSE, Google, Chrome, Desktop</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-2-episode-23</guid>
+</item>
+<item>
+<title>Season 2 Episode 22</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison</itunes:author>
+<itunes:subtitle>Hudzilla Returns</itunes:subtitle>
+<description>
+In this episode: Attachmate Corporation pays $2.2 billion for Novell. A Linux kernel patch dramatically improves desktop performance, while Fedora considers a move to Wayland. We ask whether a lack of blockbuster games is holding Linux back, and hear us completely forget discovery of the fortnight.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s02e22.mp3" length="35796422" type="audio/mp3" />
+<pubDate>Thu, 25 Nov 2010 17:00:00 GMT</pubDate>
+<itunes:duration>41:03</itunes:duration>
+<itunes:keywords>Novell, Attachmate, Microsoft, TuxRadar, Canonical, Ubuntu, Nokia, Wayland, Symbian</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-2-episode-22</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 21</title>
+<itunes:author>Andrew Gregory, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>The one without Paul</itunes:subtitle>
+<description>
+In this episode:  Ubuntu may ditch the X Window system for Wayland, Fedora 14 has been released and Nokia takes Symbian back from the Symbian Foundation. Share our fortnight's discoveries and hear whether we think Qt and KDE should merge APIs.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s02e21.mp3" length="40816786" type="audio/mp3" />
+<pubDate>Thu, 11 Nov 2010 19:00:00 GMT</pubDate>
+<itunes:duration>48:42</itunes:duration>
+<itunes:keywords>TuxRadar, Canonical, Ubuntu, Nokia, Wayland, Symbian</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-2-episode-21</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 20</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Longer than expected</itunes:subtitle>
+<description>
+In this episode: The London Stock Exchange is super fast, thanks to Linux, while Android celebrates its 100,000th app submission. We discover things and talk about tiling window managers, while our listeners talk about Ubuntu's Unity.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s02e20.mp3" length="38291567" type="audio/mp3" />
+<pubDate>Thu, 28 Oct 2010 16:00:00 GMT</pubDate>
+<itunes:duration>41:02</itunes:duration>
+<itunes:keywords>TuxRadar, Android, LSE, Ubuntu, Canonical, Unity, Nokia</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-2-episode-20</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 19</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Welcome to the Jungle</itunes:subtitle>
+<description>In this episode: Ubuntu 10.10 has been released, and Microsoft attacks OpenOffice.org with a video. Discover our all-new challenge for the next episode, and we judge the level of anticipation for Panasonic's Jungle.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s02e19.mp3" length="36020988" type="audio/mp3" />
+<pubDate>Fri, 15 Oct 2010 16:00:00 GMT</pubDate>
+<itunes:duration>43:55</itunes:duration>
+<itunes:keywords>TuxRadar, Jungle, Ubuntu, Panasonic, Microsoft, OpenOffice</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-2-episode-19</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 18</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Asbestos Gloves</itunes:subtitle>
+<description>In this episode: Both Mandriva and OpenOffice.org have been forked, while Microsoft sues Motorola for bits of Android. Try the results of our text adventure challenge and hear your own comments in our Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s02e18.mp3" length="67881192" type="audio/mp3" />
+<pubDate>Tue, 5 Oct 2010 20:00:00 GMT</pubDate>
+<itunes:duration>78:23</itunes:duration>
+<itunes:keywords>TuxRadar, Linux, flame, PC Plus, Mandriva, LibreOffice, Microsoft, Motorola, Android </itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-2-episode-18</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 17</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>88 Miles Per Hour</itunes:subtitle>
+<description>In this episode: We each predict a news story that may or may not have happened over the last seven days. Play the final results of our 'build a game' challenge, and we ask, is it finally time to do away with the command-line?
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s02e17.mp3" length="36366470" type="audio/mp3" />
+<pubDate>Thu, 16 Sep 2010 15:00:00 GMT</pubDate>
+<itunes:duration>40:29</itunes:duration>
+<itunes:keywords>TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-2-episode-17</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 16</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Mike May Vary</itunes:subtitle>
+<description>In this episode: Sony was legally allowed to remove the 'Other OS' feature from the Playstation 3, according to Australian lamakers. Glibc is now really free and KSplice gets into Fedora. We report back from the mid-point of our games development challenge, and ask, what's your favourite Linux improvement?
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s02e16.mp3" length="43606528" type="audio/mp3" />
+<pubDate>Thu, 2 Sep 2010 17:00:00 GMT</pubDate>
+<itunes:duration>51:36</itunes:duration>
+<itunes:keywords>Sony, Microsoft, Playstation, KSplice, Fedora, TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-2-episode-16</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 15</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Gnaborretni</itunes:subtitle>
+<description>In this episode: Ubuntu 10.10 is going to add gesture support and 11.04 is going to be called the Natty Narwhal. Debian 6.0 has been feature frozen while Oracle sets its sights on Google. Discover how we fared with our Nethack challenge, and how we filled the Open Ballot section without an Open Ballot.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s02e15.mp3" length="44810339" type="audio/mp3" />
+<pubDate>Thu, 19 Aug 2010 18:00:00 GMT</pubDate>
+<itunes:duration>48:34</itunes:duration>
+<itunes:keywords>Canonical, Ubuntu, KDE, Gnome, Oracle, Sun, TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-2-episode-15</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 14</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison</itunes:author>
+<itunes:subtitle>KDelay</itunes:subtitle>
+<description>In this episode: Gnome 3.0 has been delayed while the Gnome team releases its first census results. KDE 4.5 should be here, and Mark Shuttleworth dislikes tribalism. Discover our new 'You Dare Us' challenge, and we reveal our discoveries from the last two weeks. Finally, hear us discuss one of the most compelling Open Ballots in living memory.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s02e14.mp3" length="35987187" type="audio/mp3" />
+<pubDate>Thu, 5 Aug 2010 16:00:00 GMT</pubDate>
+<itunes:duration>41:42</itunes:duration>
+<itunes:keywords>Gnome, KDE, OpenSUSE, Red Hat, Canonical, Novell, Meego TuxRadar, Linux</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-2-episode-14</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 13</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison</itunes:author>
+<itunes:subtitle>Positivity</itunes:subtitle>
+<description>In this episode: A SCO representative finally reveals some of the Linux code SCO had a problem with and OpenSUSE 11.3 is here. Listen to the results of our new challenge, and we ask whether the likes of Red Hat, Novell and Canonical contribute enough back to the community.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s02e13.mp3" length="28968582" type="audio/mp3" />
+<pubDate>Thu, 22 Jul 2010 23:00:00 GMT</pubDate>
+<itunes:duration>33:09</itunes:duration>
+<itunes:keywords>Google, SCO, OpenSUSE, Red Hat, Canonical, Novell, TuxRadar, Python</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-2-episode-13</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 12</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison</itunes:author>
+<itunes:subtitle>The shortest episode, ever.</itunes:subtitle>
+<description>In this episode: The first Mozilla 4 beta is here while Nokia is moving rapidly forward with MeeGo for mobiles. We report back on our You Dare Us challenge and hear Paul tackle Python.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s02e12.mp3" length="21595112" type="audio/mp3" />
+<pubDate>Thu, 8 Jul 2010 15:00:00 GMT</pubDate>
+<itunes:duration>24:48</itunes:duration>
+<itunes:keywords>Google, Nokia, Linux, TuxRadar, Python</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-2-episode-12</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 11</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>The one without Andrew, mostly.</itunes:subtitle>
+<description>In this episode: Google releases its own command-line tool, Ubuntu drops F-Spot, and has anyone seen Mandriva? Listen to the results of our haiku challenge, and we ask, do you use open source software for freedom or function?
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s02e11.mp3" length="32621558" type="audio/mp3" />
+<pubDate>Thu, 24 Jun 2010 17:00:00 GMT</pubDate>
+<itunes:duration>37:09</itunes:duration>
+<itunes:keywords>Google, Ubuntu, Mandriva, Apple, Linux, TuxRadar, Unity</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-2-episode-11</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 10</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Japanese giant flying squirrel</itunes:subtitle>
+<description>In this episode: Fedora 13 is out. Google drops the Windows option for new staff and yet Windows is still doing well as a server. Discover how we fared with a minority distribution and we tout our ideas on how Linux devices can beat Apple's iPad.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s02e10.mp3" length="46078859" type="audio/mp3" />
+<pubDate>Thu, 10 Jun 2010 17:00:00 GMT</pubDate>
+<itunes:duration>52:36</itunes:duration>
+<itunes:keywords>Google, iPad, Microsoft, Apple, Ubuntu, Android, Linux, TuxRadar, Unity</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-2-episode-10</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 9</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Google Gaggle</itunes:subtitle>
+<description>In this episode: We discuses the three big Linux-related announcements from Google. We present our amazing discoveries from the last fortnight and ask whether anyone is excited by the HP Slate.</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s02e09.mp3" length="38144414" type="audio/mp3" />
+<pubDate>Thu, 27 May 2010 17:00:00 GMT</pubDate>
+<itunes:duration>48:17</itunes:duration>
+<itunes:keywords>Google, iPad, Apple, Ubuntu, Android, Linux, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-2-episode-9</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 8</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Humble Bumble</itunes:subtitle>
+<description>In this episode: Mandriva is up for sale while Android phones are outselling iPhones in the USA. Judge our TuxRadar content challenge and we ask, should distros license codecs?</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s02e08.mp3" length="45446662" type="audio/mp3" />
+<pubDate>Thu, 13 May 2010 17:00:00 GMT</pubDate>
+<itunes:duration>53:06</itunes:duration>
+<itunes:keywords>Ubuntu, Android, Mandriva, iPhone, Linux, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-2-episode-8</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 7</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Passive Electioneering</itunes:subtitle>
+<description>In this episode: Lucid Lynx, Ubuntu 10.04, is here! And Valve might be porting Steam to Linux. Discover how we coped with Z shell and what we think is the biggest threat to Linux.</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s02e07.mp3" length="45108329" type="audio/mp3" />
+<pubDate>Thu, 29 Apr 2010 15:30:00 GMT</pubDate>
+<itunes:duration>52:52</itunes:duration>
+<itunes:keywords>Ubuntu, Lynx, Valve, Steam, Chrome, zsh, Linux, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-2-episode-7</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 6</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Pink Ponies, naturally</itunes:subtitle>
+<description>In this episode: The Android-based WePad takes on the mighty Apple iPad while Nokia and Intel launch MeeGo. Hear the results of our music-making challenge and ask yourselves, is Linux sexy?</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s02e06.mp3" length="45358264" type="audio/mp3" />
+<pubDate>Thu, 15 Apr 2010 17:00:00 GMT</pubDate>
+<itunes:duration>50:44</itunes:duration>
+<itunes:keywords>Apple, iPad, WePad, Android, Ubuntu, MeeGo, Nokia, Intel, Linux, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-2-episode-6</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 5</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>April Fools</itunes:subtitle>
+<description>In this episode: Ubuntu switches to base 10, Novell fights takeover while Sony removes Linux support from its older Playstation 3 consoles. We reveal how little we've used Emacs and ask whether Wikipedia should use open codecs.
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s02e05.mp3" length="35298133" type="audio/mp3" />
+<pubDate>Thu, 1 Apr 2010 15:00:00 GMT</pubDate>
+<itunes:duration>41:25</itunes:duration>
+<itunes:keywords>Novell, Sony, PS3, Emacs, Theora, Ubuntu, Linux, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-2-episode-5</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 4</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Penguins Are Doing Time</itunes:subtitle>
+<description>In this episode: Gnome's Guadec and KDE's Akademy are getting back together in 2011 and are looking for a venue, while Canonical unveils a major rebranding for Ubuntu 10.04. We reveal which presenter had the most SUSE Studio downloads and report back on our time spent with Ubuntu 4.10. 
+</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s02e04.mp3" length="41470976" type="audio/mp3" />
+<pubDate>Thu, 18 Mar 2010 18:00:00 GMT</pubDate>
+<itunes:duration>50:18</itunes:duration>
+<itunes:keywords>Gnome, KDE, Guadec, Akademy, Canonical, Ubuntu, FSF, Linux, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-2-episode-4</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 3</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>SUSE SUSE Studio</itunes:subtitle>
+<description>In this episode: Version 2.6.33 of the Linux kernel is here and it includes a new 3D accelerated Nvidia graphics driver. Canonical's online music store will only provide MP3 files, and Apple sues HTC. We report back on our experiences with SUSE Studio and answer our critics in the Closed Ballot.</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s02e03.mp3" length="46564215" type="audio/mp3" />
+<pubDate>Thu, 04 Mar 2010 20:00:00 GMT</pubDate>
+<itunes:duration>56:38</itunes:duration>
+<itunes:keywords>Apple, HTC, Novell, SUSE, SUSEStudio, Canonical, Linux, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-2-episode-3</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 2</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Badger Dog </itunes:subtitle>
+<description>In this episode: Nokia and Intel combine Maemo with Moblin to create MeeGo. OpenOffice.org 3.2 is here, and it's fast. We report back on our experiences while avoiding the command line and ask whether we'll ever use KDE 4.4.</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s02e02.mp3" length="37552073" type="audio/mp3" />
+<pubDate>Thu, 18 Feb 2010 17:00:00 GMT</pubDate>
+<itunes:duration>46:23</itunes:duration>
+<itunes:keywords>Intel, Nokia, Maemo, Moblin, MeeGoo, OpenOffice.org, Linux, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-2-episode-2</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 1</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Oleophobia</itunes:subtitle>
+<description>In this episode: Three quarters of the Linux kernel code is written by developers being paid to do so and Facebook transforms PHP performance. We promise to give up the command line for two weeks and ask whether Ubuntu is wrong to switch the default search engine in Firefox from Google to Yahoo. Plus, we introduce two new sections. </description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s02e01.mp3" length="35695591" type="audio/mp3" />
+<pubDate>Thu, 4 Feb 2010 18:00:00 GMT</pubDate>
+<itunes:duration>43:38</itunes:duration>
+<itunes:keywords>Google, Canonical, Apple, Linux, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-2-episode-1</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 25</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Dreaming Androids</itunes:subtitle>
+<description>In this episode: Google releases the Nexus One and Mark Shuttleworth has announced he's going to relinquish control of Canonical. Freescale unveils a Linux touch tablet and we ask whether 2010 could really, honestly, be the year of Linux on the desktop. </description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s01e25.mp3" length="41493382" type="audio/mp3" />
+<pubDate>Wed, 6 Jan 2010 18:00:00 GMT</pubDate>
+<itunes:duration>40:59</itunes:duration>
+<itunes:keywords>Google, Canonical, Freescale, Android, Nexus, TuxRadar</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-1-episode-25</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 24</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Linux Mint</itunes:subtitle>
+<description>In this episode: The Gnome community considers dropping GNU, while a Gnome screensaver is found to contain malware. We trawl through our favourite TuxRadar comments of the year and ask whether it's good to sue for GPL violations.</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s01e24.mp3" length="41378629" type="audio/mp3" />
+<pubDate>Wed, 23 Dec 2009 10:00:00 GMT</pubDate>
+<itunes:duration>52:20</itunes:duration>
+<itunes:keywords>Gnome, Gnome, Gnome, TuxRadar, ThinkGeek</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-1-episode-24</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 23</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Chromium Carousal</itunes:subtitle>
+<description>In this episode: The Linux version of Google's Chrome browser is now officially in beta and Linux netbook share appears to be growing. Nokia releases Qt 4.6 and we ask whether Linux documentation could be improved and is Google's Chrome operating system a good thing?</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s01e23.mp3" length="37905723" type="audio/mp3" />
+<pubDate>Wed, 09 Dec 2009 20:00:00 GMT</pubDate>
+<itunes:duration>49:04</itunes:duration>
+<itunes:keywords>Linux, Google, Chrome, Nokia, Qt, Gnome</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-1-episode-23</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 22</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>The Sound of Fail</itunes:subtitle>
+<description>In this episode: Google releases the source code to its new operating system, Chrome OS. The Fedora 12 distribution makes its way onto the mirrors and The Gimp is too powerful and too complex for Ubuntu 10.04. We present the results of our two-week Bing research project and ask whether we'd switch to Bing if it was the only place to find News Corp. coverage.</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s01e22.mp3" length="36368645" type="audio/mp3" />
+<pubDate>Wed, 25 Nov 2009 17:00:00 GMT</pubDate>
+<itunes:duration>49:15</itunes:duration>
+<itunes:keywords>Linux, Google, Chrome, Fedora, Ubuntu, Bing</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-1-episode-22</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 21</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Mammoth Mammoth</itunes:subtitle>
+<description>In this episode: Firefox turns 5, Microsoft allegedly borrows some GPL code and the Fat Elf is no more. We talk about what our perfect Linux distribution would look like and ask whether everyone should be compelled to contribute to free software projects.</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s01e21.mp3" length="33536776" type="audio/mp3" />
+<pubDate>Wed, 11 Nov 2009 17:00:00 GMT</pubDate>
+<itunes:duration>44:39</itunes:duration>
+<itunes:keywords>Linux, Canonical, Ubuntu, Windows, GPL, Firefox</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-1-episode-21</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 20</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Manky Monkey</itunes:subtitle>
+<description>In this episode: Canonical's shiny new distro, Ubuntu 9.10, is released. We talk about what's new and what's old, review a version of Ubuntu each, discuss what we love and loathe and set our minds on the future with Lucid Lynx.</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s01e20.mp3" length="38961590" type="audio/mp3" />
+<pubDate>Thu, 29 Oct 2009 16:00:00 GMT</pubDate>
+<itunes:duration>52:57</itunes:duration>
+<itunes:keywords>Linux, Canonical, Ubuntu, Karmic, Koala</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-1-episode-20</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 19</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>A Hero's Welcome</itunes:subtitle>
+<description>In this episode: Linux is reported to be safer for online banking and international stock exchanges than Microsoft Windows, we reveal our personal geek heroes and our Open Ballot asks whether we should embrace Microsoft's open source work.</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s01e19.mp3" length="34128329" type="audio/mp3" />
+<pubDate>Thu, 15 Oct 2009 17:00:00 GMT</pubDate>
+<itunes:duration>42:01</itunes:duration>
+<itunes:keywords>Linux, Microsoft, Debian, FreeBSD, Linus, Torvalds </itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-1-episode-19</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 18</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Linux Convicts</itunes:subtitle>
+<description>In this episode: We talk about the recent Linux conferences we've attended, the final versions of both Moblin 2.0 and Gnome 2.28 and discuss whether Linux is bloated. Our Open Ballot asks 'Are distro release cycles too short?' and Andrew finds a surprisingly practical 'Discovery of the Fortnight'.</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s01e18.mp3" length="36070611" type="audio/mp3" />
+<pubDate>Wed, 30 Sep 2009 17:00:00 GMT</pubDate>
+<itunes:duration>47:07</itunes:duration>
+<itunes:keywords>Linux, Novell, LinuxCon, OSCON, Intel, Moblin, OpenSUSE, Linus, Torvalds </itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-1-episode-18</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 17</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Escape from Targ</itunes:subtitle>
+<description>In this episode: The first Linux botnet has been detected, version 2.6.31 of the Linux kernel has been released and the Haiku project announces the availability of Alpha 1 of its BeOS-like operating system. We discuss Novell's expensive foray into iPhone development with its MonoTouch SDK and we ask whether we should focus on other Unixes alongside Linux.</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s01e17.mp3" length="33031277" type="audio/mp3" />
+<pubDate>Wed, 16 Sep 2009 12:00:00 GMT</pubDate>
+<itunes:duration>42:50</itunes:duration>
+<itunes:keywords>Linux, Novell, botnet, MonoTouch, iPhone, Unix </itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-1-episode-17</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 16</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>The Shrieking Sister</itunes:subtitle>
+<description>In this episode: Nokia announces a new Linux handset, Sony drops Linux support from its new Playstation 3 console and Google creates a 64-bit version of its Chrome browser. Listen to the results of our two weeks with text-mode challenge and we ask whether we should be more zealous when promoting Linux and open source.</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s01e16.mp3" length="28057094" type="audio/mp3" />
+<pubDate>Wed, 2 Sep 2009 20:00:00 GMT</pubDate>
+<itunes:duration>36:31</itunes:duration>
+<itunes:keywords>Linux, Nokia, Microsoft, KDE, Bing, Sony, Google </itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-1-episode-16</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 15</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>PodKastigation</itunes:subtitle>
+<description>In this episode: There was a hole in the kernel for eight years. Dell announces that its Linux netbook returns are a non-issue and we look at Ubuntu One. We report on our two weeks with the KDE desktop and our open ballot asks whether open source licences should be viral.</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s01e15.mp3" length="32346473" type="audio/mp3" />
+<pubDate>Wed, 19 Aug 2009 20:00:00 GMT</pubDate>
+<itunes:duration>45:00</itunes:duration>
+<itunes:keywords>Linux, Dell, Ubuntu, KDE, GPL, BSD, Apache </itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-1-episode-15</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 14</title>
+<itunes:author>Paul Hudson, Graham Morrison, Bob Moss, Mike Saunders</itunes:author>
+<itunes:subtitle>Tron with Ponies</itunes:subtitle>
+<description>In this episode: SUSE Studio is out; Debian adpots timed releases, should we be giving coverage to companies who don't support Linux and should geeks prefer Free internet services over free internet services?</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s01e14.mp3" length="33817364" type="audio/mp3" />
+<pubDate>Wed, 5 Aug 2009 17:00:00 GMT</pubDate>
+<itunes:duration>46:25</itunes:duration>
+<itunes:keywords>Linux, Novell, SUSE, Debian, Twitter, Identica</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-1-episode-14</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 13</title>
+<itunes:author>Paul Hudson, Graham Morrison, Bob Moss, Mike Saunders</itunes:author>
+<itunes:subtitle>Lion Eggs for Matt</itunes:subtitle>
+<description>In this episode: Google announces its own Chrome OS operating system and the Moblin project gets X Windows running with user privileges. We talk about how we got into Linux and discuss whether we think Google is becoming Microsoft.</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s01e13.mp3" length="36281119" type="audio/mp3" />
+<pubDate>Wed, 22 Jul 2009 08:00:00 GMT</pubDate>
+<itunes:duration>44:07</itunes:duration>
+<itunes:keywords>Linux, Google, Chrome, Moblin</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-1-episode-13</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 12</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Mike's Song</itunes:subtitle>
+<description>In this episode: Mono is finally safe to use while the HTML 5 specification is causing trouble. Canonical's Design and User Experience team launch the One Hundred Paper Cuts project for their next distro release, and do version numbers really matter? </description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s01e12.mp3" length="39291603" type="audio/mp3" />
+<pubDate>Wed, 8 Jul 2009 16:00:00 GMT</pubDate>
+<itunes:duration>40:32</itunes:duration>
+<itunes:keywords>Linux, HTML 5, Ubuntu, Mono </itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-1-episode-12</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 11</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>The Battle of Thorne Waste</itunes:subtitle>
+<description>In this episode: Android isn't as good as Windows CE on smartbooks. Debian bundles Mono, Crossover 8 is released while Opera 10 and Firefox 3.5 are nearly here. Is sound a disaster on Linux? And should geeks boycott closed platforms like the XBox 360, Playstation 3 and iPhone? </description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s01e11.mp3" length="40767714" type="audio/mp3" />
+<pubDate>Wed, 24 Jun 2009 16:30:00 GMT</pubDate>
+<itunes:duration>49:30</itunes:duration>
+<itunes:keywords>Linux, Android, Windows CE, Jack, ALSA, Firefox </itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-1-episode-11</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 10</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Episode X</itunes:subtitle>
+<description>In this episode: Unix is 40 years old, Google releases an alpha Linux version of its Chrome browser and ARM-powered laptops are spotted at Computex. Is Linux a difficult development platform and should we thin the licensing herd? </description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s01e10.mp3" length="34322929" type="audio/mp3" />
+<pubDate>Wed, 10 Jun 2009 16:30:00 GMT</pubDate>
+<itunes:duration>44:58</itunes:duration>
+<itunes:keywords>Linux, Google, Chrome, Netbook, Arm, Pianoteq, Gloss, BleachBit </itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-1-episode-10</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 9</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Catafalque</itunes:subtitle>
+<description>In this episode: Our favourite TuxRadar comments so far, how can we help convert people from Windows and a special feature on Netbooks.</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s01e09.mp3" length="32339804" type="audio/mp3" />
+<pubDate>Wed, 27 May 2009 17:00:00 GMT</pubDate>
+<itunes:duration>41:06</itunes:duration>
+<itunes:keywords>Linux, Netbook, TuxRadar, Libre.fm </itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-1-episode-9</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 8</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Wolves in the Moonlight</itunes:subtitle>
+<description>In this episode: OpenOffice.org 3.1 is released while Debian forks from Glibc and Mozilla considers updating the Firefox icon. In light of the imminent release of Moonlight 2, we ask whether open source development always needs to innovate, and our Open Ballot asks whether we need a standard package format.</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s01e08.mp3" length="27298070" type="audio/mp3" />
+<pubDate>Wed, 13 May 2009 11:00:00 GMT</pubDate>
+<itunes:duration>35:58</itunes:duration>
+<itunes:keywords>Linux, Moonlight, OpenOffice, Microsoft, Firefox </itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-1-episode-8</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 7</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Setting Sun</itunes:subtitle>
+<description>In this episode: Ubuntu 9.04 is here and Renai LeMay says it's as slick as Mac OS X. We also get to play with the GP2X Wiz portable games console and ponder on the announcement that Oracle is going to buy Sun Microsystems. Our open ballot asks whether we should dump OpenOffice.org.</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s01e07.mp3" length="41410846" type="audio/mp3" />
+<pubDate>Wed, 29 Apr 2009 11:00:00 GMT</pubDate>
+<itunes:duration>43:08</itunes:duration>
+<itunes:keywords>linux, TuxRadar, Oracle, Sun, Ubuntu, GP2X </itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-1-episode-7</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 6</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Monologue</itunes:subtitle>
+<description>In this episode: Gtk+ developers announce plans for version 3. Microsoft proclaims 96% domination of the netbook market and both Mono 2.4 and MonoDevelop 2.0 are released. Is the new Linux Spotify library a good thing and should netbook manufacturers standardise on a single distribution? </description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s01e06.mp3" length="38125687" type="audio/mpeg" />
+<pubDate>Wed, 15 Apr 2009 18:00:00 GMT</pubDate>
+<itunes:duration>39:42</itunes:duration>
+<itunes:keywords>linux, TuxRadar, Microsoft, Gtk+, Canonical, Netbook </itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-1-episode-6</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 5</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders, Mark Shuttleworth</itunes:author>
+<itunes:subtitle>Space Shuttle</itunes:subtitle>
+<description>In this episode: We celebrate the release of Gnome 2.26 and talk about the Chromium browser. Could the Linux community have done more to capitalise on the weak take-up of Windows Vista, and how can we prepare ourselves for Windows 7? And is it a good thing to have two competing desktop environments? </description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s01e05.mp3" length="29223116" type="audio/mpeg" />
+<pubDate>Wed, 01 Apr 2009 10:00:00 GMT</pubDate>
+<itunes:duration>30:26</itunes:duration>
+<itunes:keywords>linux, TuxRadar, Microsoft, KDE, Shuttleworth, Canonical, Ubuntu, Chromium, Gnome </itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-1-episode-5</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 4</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>GScrot's Previous Icon</itunes:subtitle>
+<description>In this episode: Jim Zemlin wants a united front for netbooks, Codeweavers want DirectX 10 for Linux, has Firefox been exploited, can we help people who are new to Linux, and should proprietary software be easy to install? </description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s01e04.mp3" length="43557067" type="audio/mpeg" />
+<pubDate>Tue, 17 Mar 2009 17:00:00 GMT</pubDate>
+<itunes:duration>45:22</itunes:duration>
+<itunes:keywords>linux, TuxRadar, Microsoft, KDE, Zemlin, Spotify, Wine, GScrot, Shutter </itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-1-episode-4</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 3</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Irradiated Sausage</itunes:subtitle>
+<description>In this episode: Debian 5 and Xfce 4.6 are released, Microsoft sues TomTom, are the Creative Commons licences working, are there too many Linux distributions and did Mike really play Captain 'S' - the remake?</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s01e03.mp3" length="33722009" type="audio/mpeg" />
+<pubDate>Tue, 03 Mar 2009 22:00:00 GMT</pubDate>
+<itunes:duration>35:07</itunes:duration>
+<itunes:keywords>linux, debian, TuxRadar, Microsoft, creative commons, XFCE  </itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-1-episode-3</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 2</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Was that Mike or Tony Blair?</itunes:subtitle>
+<description>In this episode: Moonlight 1.0 is released, how will the recession affect Linux, is Ubuntu a 'good thing' and just what exactly is Slime Forest 
+Adventure?</description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s01e02.mp3" length="41016651" type="audio/mpeg" />
+<pubDate>Tue, 17 Feb 2009 14:00:00 GMT</pubDate>
+<itunes:duration>42:43</itunes:duration>
+<itunes:keywords>linux, qt, moonlight, silverlight, hp, cuba, TuxRadar, ubuntu, ssh-fs, slime forest, recession </itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-1-episode-2</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 1</title>
+<itunes:author>Andrew Gregory, Paul Hudson, Graham Morrison, Mike Saunders</itunes:author>
+<itunes:subtitle>Jesus Jelly</itunes:subtitle>
+<description>In this episode: Torvalds switches to Gnome, should we encourage people to run free software on a non-free OS, and is Mono a force for good or one big 
+anti-Microsoft Troll? </description>
+<enclosure url="https://archive.org/download/tuxradar-podcasts-mp3/tuxradar_s01e01.mp3" length="47448152" type="audio/mpeg" />
+<pubDate>Tue, 03 Feb 2009 14:00:00 GMT</pubDate>
+<itunes:duration>35:51</itunes:duration>
+<itunes:keywords>linux, torvalds, renoise, TuxRadar, kde, gnome, csharprepl, mypaint, mono, silverlight</itunes:keywords>
+<guid>http://www.tuxradar.com/content/podcast-season-1-episode-1</guid>
+</item>
+
+
+</channel>
+</rss>
