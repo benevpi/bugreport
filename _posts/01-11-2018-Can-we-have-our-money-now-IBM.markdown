@@ -6,10 +6,10 @@ categories: news
 series: 1
 episode: 7
 podcast: false
-duration: 
+duration: 3292
 keywords: Linux, Brexit, EU, Linux Voice, Tech, Red Hat, Fedora, Scarlet cap, IBM
-mp3length: 
-ogglength: 
+mp3length: 56990449
+ogglength: 43927603
 excerpt_separator: <!--more-->
 ---
 
@@ -18,11 +18,14 @@ In this episode: We exclusively reveal why the CD32 single-handedly brought down
 <!--more-->
 
 ## News
-* RedHat sells out -- more in open ballot
-* Hammond goes after silicon valley
-* UK Hackspace foundation gets cash
-* Linus is back and a bit politer
-* new magazine out
+* [RedHat sells out -- more in open ballot](https://blog.ubuntu.com/2018/10/30/statement-on-ibm-acquisition-of-red-hat
+)
+* [Hammond goes after silicon valley](https://www.telegraph.co.uk/technology/2018/10/29/hammond-unveils-digital-services-tax-make-tech-giants-pay-fair/)
+* [UK Hackspace foundation gets cash](https://forum.hackspace.org.uk/t/funding-announcement/612
+)
+* [Linus is back and a bit politer](https://www.phoronix.com/scan.php?page=news_item&px=Linus-Torvalds-New-Politeness
+)
+* [New magazine out](https://wireframe.raspberrypi.org)
 
 ## Finds
 * Graham
@@ -31,7 +34,8 @@ In this episode: We exclusively reveal why the CD32 single-handedly brought down
 * Andrew 
   *
 * Ben
-  * Github alerting you to vulnerabilities
+  * [Github alerting you to vulnerabilities](https://blog.github.com/2017-11-16-introducing-security-alerts-on-github/)
+  * There's a variety of rude images in unicode if you know where to look [𓂸𓂹 𓂺](https://www.revk.uk/2018/10/unicode-dicks.html)
 * Mike
   *
 * From the internet
