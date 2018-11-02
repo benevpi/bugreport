@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "s01e07: Can we have our money now IBM?"
-date:   2018-11-01 10:30:00 +0100
+date:   2018-11-02 12:30:00 +0100
 categories: news
 series: 1
 episode: 7
