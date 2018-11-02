@@ -13,7 +13,7 @@ ogglength:
 excerpt_separator: <!--more-->
 ---
 
-we dun did a thing 
+In this episode: We exclusively reveal why the CD32 single-handedly brought down Commodore. Plus some other news.
 
 <!--more-->
 
@@ -26,7 +26,8 @@ we dun did a thing
 
 ## Finds
 * Graham
-  * 
+  * [Fermenttack](https://github.com/thorrak/fermentrack) is a replacement UI for BrewPi
+  * Map and view NES games in realtime with [ANESE](https://prilik.com/ANESE/wideNES)
 * Andrew 
   *
 * Ben
@@ -40,7 +41,7 @@ we dun did a thing
   <source src="http://bugreport.co.uk/assets/bugreport_s1e7.mp3" type="audio/mpeg">
 </audio>
 
-Download the podcast as an [MP3](http://bugreport.co.uk/assets/bugreport_s1e6.mp3) or an [OGG](http://bugreport.co.uk/assets/bugreport_s1e6.ogg).
+Download the podcast as an [MP3](http://bugreport.co.uk/assets/bugreport_s1e7.mp3) or an [OGG](http://bugreport.co.uk/assets/bugreport_s1e7.ogg).
 
 Let us know what you think with the comments (er, Github issues) below.
 
