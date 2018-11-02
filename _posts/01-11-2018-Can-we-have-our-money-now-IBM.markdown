@@ -39,7 +39,9 @@ In this episode: We exclusively reveal why the CD32 single-handedly brought down
 * Mike
   *
 * From the internet
-  * 
+  * JonTheNiceGuy: [worldbrain.io](https://worldbrain.io/) (indexes web pages based on you visiting them)
+  * .. also secure [scuttlebutt](https://www.scuttlebutt.nz/) (replacement p2p social media network) and its clients
+  
 <audio controls>
   <source src="http://bugreport.co.uk/assets/bugreport_s1e7.ogg" type="audio/ogg">
   <source src="http://bugreport.co.uk/assets/bugreport_s1e7.mp3" type="audio/mpeg">
