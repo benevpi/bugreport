@@ -32,12 +32,12 @@ In this episode: We exclusively reveal why the CD32 single-handedly brought down
   * [Fermenttack](https://github.com/thorrak/fermentrack) is a replacement UI for BrewPi
   * Map and view NES games in realtime with [ANESE](https://prilik.com/ANESE/wideNES)
 * Andrew 
-  *
+  * Five years and five weeks ago, Andrew almost bumped into [Robert Plant](https://www.youtube.com/watch?v=RlNhD0oS5pk)
 * Ben
   * [Github alerting you to vulnerabilities](https://blog.github.com/2017-11-16-introducing-security-alerts-on-github/)
   * There's a variety of rude images in unicode if you know where to look [𓂸𓂹 𓂺](https://www.revk.uk/2018/10/unicode-dicks.html)
 * Mike
-  *
+  * Fill in your damn finds mike!
 * From the internet
   * JonTheNiceGuy: [worldbrain.io](https://worldbrain.io/) (indexes web pages based on you visiting them)
   * .. also secure [scuttlebutt](https://www.scuttlebutt.nz/) (replacement p2p social media network) and its clients
