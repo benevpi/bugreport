@@ -9,7 +9,7 @@ xml:lang='en-GB'>
 
 <channel>
 <title>Bug Report Podcast</title>
-<link>http://bugreport.co.uk/bug_mp3.rss</link>
+<link>https://bugreport.co.uk/</link>
 <atom:link href="http://bugreport.co.uk/bug_report_mp3.rss" rel="self" type="application/rss+xml"/>
 <language>en</language>
 <copyright>Released under the Creative Commons Attribution-Share Alike 3.0 Unported Licence</copyright>
@@ -17,7 +17,7 @@ xml:lang='en-GB'>
 <image>
 <title>Bug Report Podcast</title>
 <url>http://bugreport.co.uk/assets/podimg.png</url>
-<link>http://bugreport.co.uk/bug_report_mp3.rss</link>
+
 </image>
 <media:thumbnail url="https://bugreport.co.uk/assets/podimg.png" />
 <itunes:author>bugreport.co.uk</itunes:author>
