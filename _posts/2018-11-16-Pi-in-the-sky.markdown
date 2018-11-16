@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "s01e08: Pi In The Sky"
-date:   2018-11-16 12:30:00 +0100
+date:   2018-11-16 11:30:00 +0100
 categories: news
 series: 1
 episode: 8
 podcast: true
-duration: 3292
+duration: 3072
 keywords: Linux, Brexit, EU, Linux Voice, Tech, Red Hat, Fedora, Scarlet cap, IBM
-mp3length: 56990449
-ogglength: 43927603
+mp3length: 53599272
+ogglength: 42415319
 excerpt_separator: <!--more-->
 ---
 
