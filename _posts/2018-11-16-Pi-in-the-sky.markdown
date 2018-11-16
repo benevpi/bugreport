@@ -13,7 +13,7 @@ ogglength: 42415319
 excerpt_separator: <!--more-->
 ---
 
-In this episode: We exclusively reveal why the CD32 single-handedly brought down Commodore. Plus some other news.
+In this episode: Ben and Andrew shamelessly plug their employer.
 
 <!--more-->
 
