@@ -29,7 +29,7 @@ In this episode: We exclusively reveal why the CD32 single-handedly brought down
   * [Google's map moat](https://www.justinobeirne.com/google-maps-moat/)
   * [We're on Reddit](https://www.reddit.com/r/BugReportPodcast/)
 * Andrew 
-  * 
+  * [Global village idiot Elon Musk wants us to drink and drive](https://www.theguardian.com/technology/2018/nov/13/mexico-tequila-council-elon-musk-teslaquila)
 * Ben
   * [I've started a NeoPixel animation Library for CircuitPython](https://github.com/benevpi/CircuitPythonAnimations)
 * Mike
