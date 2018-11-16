@@ -18,19 +18,25 @@ In this episode: We exclusively reveal why the CD32 single-handedly brought down
 <!--more-->
 
 ## News
-* 
+* [A new Raspberry Pi board launched](https://www.raspberrypi.org/blog/new-product-raspberry-pi-3-model-a/) 
+* [Apple blocks Linux](https://www.phoronix.com/scan.php?page=news_item&px=Apple-T2-Blocks-Linux-UEFI)
+* [A paid-for Linux launches on the Windows store](https://www.microsoft.com/en-gb/p/wlinux/9nv1gv1pxz6p?activetab=pivot:overviewtab
+)
 
 ## Finds
 * Graham
-  * 
+  * [rclone; rsync for the cloud](https://rclone.org/)
+  * [Google's map moat](https://www.justinobeirne.com/google-maps-moat/)
+  * [We're on Reddit](https://www.reddit.com/r/BugReportPodcast/)
 * Andrew 
   * 
 * Ben
-  * 
+  * [I've started a NeoPixel animation Library for CircuitPython](https://github.com/benevpi/CircuitPythonAnimations)
 * Mike
   * Fill in your damn finds mike!
 * From the internet
-  * 
+  * [ioangogo: nodeCG a nodejs broadcast graphics toolkit that uses web techs, its use by Games Done quick](https://nodecg.com)
+  * [james_olympus http://iris2.rail.co.uk/tiger/ a website for acessing the passenger information screens seen at stations]( http://iris2.rail.co.uk/tiger/)
   
 <audio controls>
   <source src="http://bugreport.co.uk/assets/bugreport_s1e8.ogg" type="audio/ogg">
