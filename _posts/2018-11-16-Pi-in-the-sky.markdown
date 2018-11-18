@@ -43,7 +43,7 @@ In this episode: Ben and Andrew shamelessly plug their employer.
   <source src="http://bugreport.co.uk/assets/bugreport_s1e8.mp3" type="audio/mpeg">
 </audio>
 
-Download the podcast as an [MP3](http://bugreport.co.uk/assets/bugreport_s1e7.mp3) or an [OGG](http://bugreport.co.uk/assets/bugreport_s1e7.ogg).
+Download the podcast as an [MP3](http://bugreport.co.uk/assets/bugreport_s1e8.mp3) or an [OGG](http://bugreport.co.uk/assets/bugreport_s1e8.ogg).
 
 Let us know what you think with the comments (er, Github issues) below.
 
