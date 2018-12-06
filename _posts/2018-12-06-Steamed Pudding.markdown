@@ -31,7 +31,7 @@ In this episode: Ben and Andrew shamelessly plug their employer.
   * [York council hacked](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-46275368)
   * [York Raceday app](https://play.google.com/store/apps/details?id=uk.me.peteharris.pintinyork&hl=en_GB)
 * Ben
-  * Structural circuits with Neopixels
+  * [Structural circuits with Neopixels](https://bugreport.co.uk/assets/HS%20lights.mp4)
   * [RGB LEDs with crystals](https://effulgent.co/)
 * Mike
   * Fill in your damn finds mike!
