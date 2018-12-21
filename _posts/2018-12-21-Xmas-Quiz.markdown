@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "s01e10: Xmas Quiz"
+date:   2018-12-21 11:30:00 +0100
+categories: news
+series: 1
+episode: 10
+podcast: true
+duration: 3945
+keywords: Linux, Brexit, EU, Linux Voice, Tech, Red Hat, Microsoft, MIPS
+mp3length: 60943241
+ogglength: 50543301
+excerpt_separator: <!--more-->
+---
+
+In this episode: The much anticipated return of the christmas quiz
+
+<!--more-->
+
+## News
+* [Librem dev kits shipping](https://puri.sm/posts/2018-devkits-are-shipping/)
+* [Microsoft launches Windows sandbox](https://techcommunity.microsoft.com/t5/Windows-Kernel-Internals/Windows-Sandbox/ba-p/301849?ranMID=43674&ranEAID=je6NUbpObpQ&ranSiteID=je6NUbpObpQ-_UZUOlZ2ZyTOTejYypcnAQ&epi=je6NUbpObpQ-_UZUOlZ2ZyTOTejYypcnAQ&irgwc=1&OCID=AID681541_aff_7795_1243925&tduid=(ir__i0avhykzmgkfrw2i0ckzh9lp2u2xhyajo2v1pvjr00)(7795)(1243925)(je6NUbpObpQ-_UZUOlZ2ZyTOTejYypcnAQ)()&irclickid=_i0avhykzmgkfrw2i0ckzh9lp2u2xhyajo2v1pvjr00)
+* [MIPS goes open source](https://www.eetimes.com/document.asp?doc_id=1334087)
+* [Edge goes Blinkey](https://arstechnica.com/gadgets/2018/12/post-mortem-tying-edge-to-windows-10-was-a-fatal-error/)
+
+## Christmas Quiz!
+  
+<audio controls>
+  <source src="http://bugreport.co.uk/assets/bugreport_s1e10.ogg" type="audio/ogg">
+  <source src="http://bugreport.co.uk/assets/bugreport_s1e10.mp3" type="audio/mpeg">
+</audio>
+
+Download the podcast as an [MP3](http://bugreport.co.uk/assets/bugreport_s1e10.mp3) or an [OGG](http://bugreport.co.uk/assets/bugreport_s1e10.ogg).
+
+Let us know what you think with the comments (er, Github issues) below.
+
+Theme Music by [Brad Sucks](http://www.bradsucks.net/).
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license"  href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
